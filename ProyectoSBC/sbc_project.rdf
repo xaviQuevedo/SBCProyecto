@@ -1,0 +1,1058 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:myData="http://example.org/data/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="http://example.org/data/Article">
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://produccioncientificaluz.org/index.php/encuentro/article/view/1186</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/http://doi.org/10.17163/uni.n25.2016.04</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://twitter.com/FAOHonduras/status/1035180370696851462\r\n</dbo:url>
+    <dbo:dataBase>
+      <rdf:Description rdf:about="http://example.org/data/Database">
+        <rdf:type>http://dbpedia.org/ontology/Database</rdf:type>
+        <foaf:name>Art�culos Publicados de Divulgaci�n Internacional</foaf:name>
+        <foaf:name>IEEE</foaf:name>
+        <foaf:name>ISI</foaf:name>
+        <foaf:name>Latindex Directorio</foaf:name>
+        <foaf:name>ACM</foaf:name>
+        <foaf:name>LILACS</foaf:name>
+        <foaf:name>Scopus</foaf:name>
+        <foaf:name>Art�culos Publicados de Divulgaci�n Nacional</foaf:name>
+        <foaf:name>Art�culos Publicados de Divulgaci�n Local</foaf:name>
+        <foaf:name>REDALYC</foaf:name>
+        <foaf:name>Scielo</foaf:name>
+        <foaf:name>Latindex Cat�logo</foaf:name>
+      </rdf:Description>
+    </dbo:dataBase>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://cienciaytecnologia.uteg.edu.ec/revista/index.php/cienciaytecnologia/article/view/242/250</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://repositorio.unae.edu.ec/bitstream/123456789/451/1/Cuaderno%20de%20Pol%C3%ADtica%20Educativa%203.pdf</dbo:url>
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://example.org/data/WrittenWork">
+        <foaf:name>Especies vegetales para frenar el impacto por mercurio</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"This  research  work  has  been  oriented  to  envision,  from  the  literary review,  the  crucial  aspects  that  the  company  must  consider  to  safeguard  its information  through  the  application  of  more  recognized  international  regulations such as ISO / IEC 27001, ITIL and Cobit, in order to that the company can achieve its goal of reducing threats and vulnerabilities, whether internal or external. At the beginning of the article, it focuses on presenting the conceptualization of information security, risk, threat and vulnerability In addition, it briefly addresses an explanation of   the   3   regulations   mentioned   above,   and   emphasizes   the   concern   of entrepreneurs  for  the  attacks  that  are  affecting  organizations  then,  a  proposed methodology  is  explained  in  relation  to  aspects  that  must  be  considered  for  the implementation  of  information  security.  In  the  last  part,  the  Author  points  out  the conclusions and recommendations. This document is the product of literary review obtained from secondary sources"</dbo:abstract>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2013</dbo:year>
+        <foaf:name>Perfiles de velocidad en sistema de flujo a superficie libre con un v�rtice rotacional hidr�ulico</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Las Instituciones de Educaci�n Superior (IES) est�n llamadas a ofrecer una formaci�n �ntegra y/u hol�stica en su oferta formativa, no obstante este requerimiento tiene ciertas limitantes en su aplicabilidad cuando la formaci�n que se ofrece en las IES est� basada en una pedagog�a de corte conductista, la cual tiene como eje la trasmisi�n de conocimientos obligatorios antes que de formaci�n integral de la persona, es decir se prima en las asignaturas la transferencia de conocimientos utilitarios antes que una formaci�n acad_mica y axiol�gica integral que potencie la innovaci�n y el autoaprendizaje en los futuros profesionales. Desde el Humanismo se considera que este tipo de pedagog�a no es suficiente, por cuanto el ejercicio profesional debe integrar dos componentes esenciales el ideal y lo vivencial, los cuales fundamentan no solo el proceso de formaci�n profesional sino tambi_n el de desarrollo interpersonal e intrapersonal. Es as� que, el objetivo de este trabajo es examinar estas dos nociones _desde la perspectiva del humanismo pr�cticovivencial_, a fin de demostrar que la forma en que educamos a los futuros profesionales influye en el desarrollo integral de sus competencias sociales y humanas, y reforzar que una formaci�n basada en un Humanismo comprometido afianza desde el inicio de la vida universitaria el desarrollo de valores cualitativos para la constituci�n de un buen ser humano as� como para un buen profesional responsable y consciente con su comunidad.</dbo:abstract>
+        <foaf:name>Los conocimientos geom_tricos de docentes en situaciones especiales de aula</foaf:name>
+        <foaf:name>Los derechos humanos de las personas privadas de libertad. Una reflexi�n doctrinaria y normativa en contraste con la realidad penitenciaria en Ecuador</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Esta investigaci�n pretende examinar la din�mica de la desigualdad del ingreso del\r\ntrabajo al interior de dos territorios con caracter�sticas econ�micas y sociales estructuralmente\r\ndiferentes: Ecuador y Estados Unidos. Como medidas de desigualdad se contempla el\r\ncoeficiente de Gini y el �ndice de Palma la selecci�n de las mismas atribuye a presentar un\r\nan�lisis de la realidad de las disparidades en la distribuci�n del ingreso desde una perspectiva\r\nde las variaciones del punto medio de la distribuci�n (Gini) y lo que experimentan los polos de\r\nla misma (Palma). Entre los principales resultados se destaca una tendencia decreciente de la\r\ndesigualdad en Ecuador y, en Estados Unidos una tendencia al alza de las disparidades de\r\ningreso. Dentro de los factores que podr�an explicar esta tendencia en Ecuador, se identifican\r\nla dependencia de esta econom�a a los precios de las materias primas, las pol�ticas\r\nredistributivas impulsadas por un gobierno izquierdista _aumento del gasto p�blico en educaci�n, salud, bienestar social_ y aumento del empleo p�blico. En contraste, en EEUU la\r\ndeclinaci�n sindical, la desindustrializaci�n y deslocalizaci�n, el neoliberalismo, el cambio\r\ntecnol�gico, la educaci�n y la financiarizaci�n, se consideran como determinantes del\r\naumento de la desigualdad en esta econom�a."</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"La investigaci�n se bas� en descubrir los conocimientos matem�ticos de algunos docentes, referente a figuras geom_tricas planas. Si. El prop�sito de la misma fue analizar las representaciones y concepciones del docente, referentes a pol�gonos. Para abordar el estudio se utiliz� la teor�a de Jhonson-Laird ( 1996) sobre representaciones mentales esta considera tres tipos, como son: anal�gicas, proposicionales y modelos mentales. Conjuntamente con esta teor�a se trabaj� la teor�a de Anna Sfard ( 1991) referente a  concepciones, en la misma se propone la existencia de concepciones de tipo operativa y estructurales. El trabajo se realiz� en el Comedor- Escuela de la Fundaci�n Ni�os del Sol en la Ciudad de Maracaibo. Este programa brinda atenci�n escolar -alimentaria - psico social a menores trabajadores. Estamodalidad de educaci�n es ofertada para que ellos accedan a la Educaci�n B�sica u otros niveles o grados del sistema educativo formal regular. El proceso para recabar los datos se bas� en la observaci�n sistem�tica de una lecci�n, Quevedo (2005), la cual consiste en la observaci�n y registro sistem�tico de los hechos. Se parte de la elaboraci�n de una Ficha Did�ctica, con la cual se recogen aspectos generales de la instituci�n, datos acad_micos del docente, material por utilizar, recursos did�cticos, intenciones pedag�gicas y  desarrollo previsto para los contenidos. Adem�s, se elabor� una cr�nica en vivo con aspectos relevantes\r\ny, un video de los hechos. Posteriormente se analizaron los resultados obtenidos a trav_s de la cr�nica en vivo, la cr�nica del video y, la ficha de observaci�n. Estos se contrastaron la teorla. Algunos de los avances revelaron que las concepciones de los docentes, generalmente, son de tipo operativas y sus representaciones son anal�gicas o proposicionales sin alcanzar los modelos mentales que le permitan hacer inferencias a otras situaciones, entre ellas elaborar estrategias de ense�anza innovadoras."</dbo:abstract>
+        <foaf:name>Poes�a religiosa del padre Te�filo Gaivao Mier como veh�culo de la comunicaci�n social</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Introduction: Since the 90's, diabetes mellitus type 2 was already a concern,\r\ngetting stronger with the appearance of the disease in child and adolescent\r\npopulations.\r\nObjectives: Systematize the published information on overweight, obesity and\r\ndiabetes mellitus type 2 in children and adolescents in Latin America, during\r\n2000_ 2010 from articles and the strategies implemented to promote health.\r\nMethods: A descriptive study was conducted, revising the literature in indexed\r\njournals studies on overweight, obesity and diabetes mellitus type 2 in\r\nadolescents in Latin America and the Caribbean from 2000 to 2010. Data were\r\ncompiled on promotion health strategies which have been developed by\r\ngovernmental and non_governmental organizations on diabetes and obesity. This\r\nsearch for information was carried out in EBSCO, LILACS, and BVS Google\r\nScholar_ Journals consulted were Scielo, ALAD, WHO and PAHO newsletters.\r\nResults: 23 studies were found, 16 of them were conducted in different\r\ncountries and the remaining 7 dealt with information systematization on\r\noverweight, obesity and diabetes mellitus type 2 in adolescents.\r\nConclusions: All articles reviewed notes the increase in the prevalence of\r\noverweight, obesity and diabetes mellitus type 2 in children and adolescent\r\npopulations, the trend is higher in females. Genetics, poor eating habits, little\r\nphysical exercise, and sedentary lifestyle are considered among the risk factors\r\nattributable to these health problems. Strategies for health promotion developed\r\nin the decade under study are observed, planning its components are proposed\r\nin the letter of Ottawa.\r\n</dbo:abstract>
+        <foaf:name>S�crates en el siglo XXI. �Utop�a como ejemplo de vida?</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/5/13</dbo:firstPublicationDate>
+        <foaf:name>Capacitaciones Fao</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"El eje fundamental que justifica la conservaci�n de ciertos derechos fundamentales a los privados de libertad es su dignidad como seres humanos y es en base a ello, que tanto la doctrina, los tratados internacionales como la normativa interna se han esmerado en buscar mecanismos de protecci�n que respondan a trav_s del derecho positivo, a garantizar los derechos m�nimos que les son atribuibles a su paso por un centro penitenciario.\r\n\r\nEcuador es un Estado Constitucional de derechos y por ende netamente �garantista�, y en ese sentido, ha tratado de armonizar la Constituci�n vigente desde el 2008 con la normativa secundaria tratando de cristalizar dicha pretensi�n.  Por ende, la ley penal no pod�a quedar aislada, es as� que el C�digo Org�nico Integral Penal vigente desde el 2014 ratifica los derechos que les asisten a los reclusos y a las v�ctimas, como no pod�a ser de otra manera.  En resumen, los derechos m�nimos que les asisten son:\r\n-	Prohibici�n de aislamiento.  \r\n-	Comunicaci�n y visita de familiares y profesionales del derecho.  \r\n-	Declarar sobre el trato recibido durante su encierro.  \r\n-	Acceso a una salud integral.  \r\n-	Satisfacci�n de sus necesidades educativas, laborales, productivas, culturales, alimenticias y recreativas.  \r\n-	Trato especializado y preferente para mujeres embarazadas, en periodo de lactancia, adolescentes, adultos mayores o enfermos o con discapacidad. \r\n-	Contar con medidas de protecci�n para las ni�as, ni�os, adolescentes, personas con discapacidad y personas adultas mayores que est_n a su cuidado y dependen de la administraci�n penitenciaria.  (Constituci�n, 2008:  Art. 51)"</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Este arti_culo examina la relacio_n que existe entre la decisio_n de permanecer o abandonar los estudios universitarios y el rendimiento acade_mico inmediato, siguiendo el patro_n de dispersio_n geogra_fica de la poblacio_n estudiantil, que es una de las principales fortalezas de la educacio_n a distancia. La informacio_n, base de la investigacio_n, corresponde a una cohorte de estudiantes matriculados en una carrera de grado a distancia de la Universidad Te_cnica Particular de Loja (UTPL). Usando te_cnicas estadi_sticas y econome_tricas _ principalmente modelos de probabilidad multinivel - se logro_ determinar que existe un efecto positivo del rendimiento acade_mico inmediato en la decisio_n que toman los estudiantes de permanecer en los estudios. Este patro_n de comportamiento se mantuvo en todos los centros de apoyo que tiene la UTPL, independientemente de su taman_o y distancia de la sede es decir, la dispersio_n geogra_fica del centro de matri_cula o lugar de vivienda del estudiante, no es un factor que influye en las decisiones que e_ste toma. La aversio_n a la pe_rdida es el principal factor de explicacio_n del comportamiento, el hecho de no ser eficiente genera un efecto directo e inmediato, como es natural, no le encuentra sentido a su permanencia ya que no ha logrado integrarse adecuadamente."</dbo:abstract>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2009</dbo:year>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >3/9/18</dbo:firstPublicationDate>
+        <foaf:name>Design and simulation of prototype to get a soccer player�s heart rate using a wireless network</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >El claustro intelectual-acad_mico en el cual durante d_cadas perdur� la investigaci�n social, abri� sus puertas motivada _sta por la actual dimensi�n hist�rica contextual, para dirigirse a la comunidad, entendida como un com�n modo de vivir, de actuar, de ser, de convivir. Sin duda la din�mica social de la comunidad se construye a trav_s de las historias de vidas, de los sujetos, de los tramas de m�ltiples relaciones, originando as� diversas necesidades y problem�ticas que desaf�an la capacidad humana. Por lo tanto los investigadores-comunitarios elaboran proyectos que abordan el problema existente desde el planteamiento complejo y din�mico de las relaciones sociales hacia la construcci�n colectiva de propuestas innovadoras para la formulaci�n, aplicaci�n y evaluaci�n de proyectos comunes. Asimismo, el PEIC pretende ser, en la dial_ctica contextual, un acto educativo, una producci�n social, pertinente a su entorno en el cual desarrolla la vida el �homo convivialis�, permitiendo de esta manera dilucidar la realidad para transformarla. No se trata entonces de una participaci�n formal rutinaria, sino de educarse a la conciencia comunitaria, de un intercambio de saberes como expresi�n de la energ�a de los miembros del grupo a trav_s de un proceso organizado. Por tal raz�n el presente estudio documental se propone ampliar y reflexionar sobre el proceso que permite diagnosticar, actuar y evaluar los diferentes momentos compartidos por los diferentes actores sociales hacia la resoluci�n del problema y el bienestar colectivo.</dbo:abstract>
+        <foaf:name>LOS DERECHOS DE LAS MUJERES EN ECUADOR. NORMATIVA, POL�TICAS Y CAMBIO CULTURAL</foaf:name>
+        <foaf:name>Inmigraci�n italiana en Valera y el proceso de interculturalidad �talo-venezolano. Per�odo del General Marcos P_rez Jim_nez</foaf:name>
+        <foaf:name>Science and Politics in Democratic Contexts II: Social Contract for Science</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"The city of Loja is mainly supplied with surface water and only a few places in the city use groundwater. For sustainable management and consumption. The development of groundwater inventories, the determination of physical and chemical characteristics and the analysis of the modifying phenomena and the sources of contamination that can affect these waters, is vital. Chemical analyzes were performed on samples of groundwater from the Loja basin and with all these data, using bivariate diagrams (TDS vs Na / (Na + Ca), TDS vs Cl / (Cl + HCO3), Mg / Na vs Ca / Na and HCO3 / Na vs Ca / Na), determine the hydrochemical processes that control the composition of groundwater. New hydrological perspectives for the region: in the Loja basin, the rock-water interaction determines. For the most part, the composition of groundwater. The predominant ion in most of these waters was HCO3, followed by Cl-. Ions such as sulphate, bicarbonate, calcium and gypsum come from the inclemency of calcite, dolomite and gypsum (Ca + Mg vs. HCO3, SO42- = r2 = 0.93). Weathering with silicate also generates an influx of calcium, magnesium and sodium into the groundwater. The local increases in the K + and NO3 levels of some sampling points cannot be justified by the interaction with the geological materials of the basin, so these variations are probably influenced by anthropic factors such as: contamination of domestic wastewater, application of fertilizers and accumulation of garbage contiguous to the places where the water emerges. The springs were more affected by anthropogenic activity."</dbo:abstract>
+        <foaf:name>La temprana formaci�n literaria del joven Jos_ Gaos en Valencia (1915-1919)</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"The teaching of Soil Science requires dynamic tools that allow the student to be hooked throughout the academic cycle. The objective of this research is to com-plement learning strategies with technology to improve student performance. The strategies were implemented during 16 weeks to a course of 34 students, where two were applied mainly, which were the elaboration of a video and a poster In the video, the best groups were motivated to work with specialized help. At the end a survey was carried out to the students to determine the best strategies and their perception in the development of these the data was analyzed descriptively. Both the elaboration of the video and the poster pleased the students because it meant a greater option for learning. With the didactic resources used a brief vision of the tools that can be used in classes to improve the student's motivation is pro-vided, which will allow to implement the best strategies in different courses of the Soil Science or even apply them in other fields depending on the nature of each component."</dbo:abstract>
+        <foaf:name>Hydrochemical characterization of groundwater in the Loja Basin (Ecuador)</foaf:name>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2015</dbo:year>
+        <foaf:name>La factibilidad del Proyecto educativo integral comunitario (PEIC): Una perspectiva de participaci�n social desde la complejidad</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"This paper investigates in detail about the early years of Jos_ Gaos (1900-\r\n1969) and his education in philosophy and literature. Therefore, we know that their \r\nstudies (academic or not) were not purely �philosophical� in 1915. Literature and \r\nphilosophy played in Gaos an equally important role. The first real encounter with \r\nphilosophy happens before he comes to Valencia in 1915 but in this year Gaos also \r\nreceives a strong education, in aesthetic and literary, through press and philosophi\r\n-\r\ncal journals, and especially within the group formed with Max Aub, Jos_ Medina \r\nEcheverr�a and his brother Carlos Gaos.\r\n\r\nuestra intenci�n en este texto es investigar acerca de los primeros \r\na�os de formaci�n del pensamiento de Jos_ Gaos (1900-1969) as� pues, no pare\r\n-\r\nce ser demasiado err�neo pensar que aqu_l, hacia 1915 no era, a�n, puramente \r\n�filos�fico�: la Filosof�a representaba parte de su formaci�n, cumpliendo el mismo \r\npapel �eso s�: b�sico y fundamental� que desempe�� la Literatura. El primer \r\naut_ntico encuentro con la Filosof�a se dar�a antes de su llegada a Valencia, en ese \r\nmismo a�o de 1915 pero ese tambi_n es el a�o en que Gaos recibir� una s�lida \r\nformaci�n est_tico-literaria a trav_s de prensa y revistas filos�ficas, especialmente \r\nen el grupo que conform� junto con Max Aub, Jos_ Medina Echeverr�a y su hermano Carlos Gaos."</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La  metodolog�a  de  la  ense�anza  de  ingl_s  como  lengua  extranjera  (EFL)  ha  cambiado gradualmente de enfoques pasivos centrados en el docente a enfoques cada vez m�s activos y centrados en el alumno. En la d_cada de 1950, el m_todo de �Grammar Translation� consist�a en que los estudiantes traduc�an textos del ingl_s a su lengua materna y viceversa, mientras se enfocaban en construcciones gramaticales. En las clases, hab�a mucha lectura y escritura individual, en silencio, y muy poco se enfatizaba en hablar, escuchar y pronunciar.Este  m_todo  produjo  estudiantes  que  sab�an  mucho  sobre  gram�tica,  pero  no  pod�an mantener una conversaci�n simple. Luego vino el m_todo audio-lingual, que se enfocaba en escuchar, hablar y pronunciar, pero de una manera pasiva, mon�tona y repetitiva, que hac�a que    los    estudiantes    simplemente    repitieran    los    di�logos    palabra    por    palabra, memoriz�ndolos. Este m_todo produjo estudiantes que solo pod�an conversar en contextos muy espec�ficos.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >The analysis of the algorithms dedicated to the identification of\r\nsequential patterns described in the literature, shows that not all are suitable for\r\nthe type of scenarios with which video surveillance often deals, in particular for\r\nthe recognition of behavior patterns suspects to classify human behavior as\r\nnormal or suspicious, it is necessary to analyze all the monitored actions. This is\r\nthe reason why in this study the main proposal is a modification of the Generalized\r\nSequential Patterns, which we call Generalized Sequential Patterns\r\n+memory, which mainly incorporates a module that manages the number of\r\nrepetitions and combinations of actions (and not only of the sequence) that make\r\nup patterns. For the experimentation scenes of theft in supermarkets have been\r\nrecorded with labels representing states that we assume can be recognized by an\r\nartificial vision system. The results obtained were analyzed and their performance\r\nwas evaluated by comparing them with the results obtained from the GSP\r\napplication.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"El movimiento migratorio italiano que pisa tierra venezolana data del a�o 1814, tal fen�meno no registra una llegada masiva como m�s tarde se manifiesta en 1870, momento _ste de unificaci�n de la Pen�nsula que responde a la b�squeda de un ideario de libertad y de justicia m�s que a una motivaci�n econ�mica. Una nueva ola de italianos llega a Ven3ezuela en 1830, a�o en el cual se disuelve la Rep�blica de Colombia y se proclama la Independencia. Un relevante flujo de aventureros, como afirma Anibal Prieto, �ven�an fundamentalmente a hacer la Am_rica o a la b�squeda de pan y tranquilidad conquistador o refugiado, la necesidad y la fantas�a eran sus �nicos consejeros mientras a las espaldas ten�an la a�oranza o el rencor�, as� era la primera generaci�n de inmigrantes conformada por humildes campesinos acompa�ados por una �nica cultura religiosa en la tierra venezolana encontraron una econom�a basada en la agricultura, concentrada en el cultivo de caf_ y cacao. En este periodo, anterior a la explotaci�n del petr�leo, los inmigrantes italianos se dedicaron a establecerse en las zonas sur oriental, occidental y monta�osa del pa�s. En 1840 llegan los primeros italianos que se asientan al oeste del pa�s distribuidos, como afirma Antonio P_rez Carmona, en el valle del Bocon�, Escuque, Santa Ana, Pamp�n, Bolivia, Monte Carmelo, San L�zaro, Carache, Campo El�as, Pampanito, Chejend_, Valera, La Quebrada y Betijoque."</dbo:abstract>
+        <foaf:name>Uso de Internet y la Plataforma Facebook en Adolescentes Ecuatorianos</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >6/5/16</dbo:firstPublicationDate>
+        <foaf:name>La transformaci�n social a la luz de la investigaci�n educativa</foaf:name>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2005</dbo:year>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Los tratados internacionales de derechos humanos reconocen y garantizan el derecho a la vida del nasciturus. En Ecuador se garantiza el derecho a la vida desde la concepci�n, penalizando el aborto como delito, sin embargo, un porcentaje considerable de mujeres lo practican en forma clandestina, en condiciones de salud deplorable.\r\n\r\nEl uso de la pastilla del d�a despu_s como pol�tica p�blica adoptada por el Estado ecuatoriano para evitar embarazos no deseados, y reducir de esta manera el �ndice de abortos, ha causado mucha pol_mica entre los m_dicos ecuatorianos y la sociedad en general, puesto que esta medida, lejos de solucionar el problema del aborto, ha ocasionado graves problemas de salud p�blica.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Introduction: obesity is the prelude to Chronic No communicable diseases their\r\ndevelopment at an early age endangers the general population.\r\nObjective: identify predisposing factors for the development of overweight and\r\nobesity in students from state schools of Canton Loja, Ecuador.\r\nMaterial and methods: a cross-sectional study was conducted with 1337 students of\r\n11-17 years in schools-Canton Loja, the body mass index was determined the results\r\nare presented in tables.\r\nResults: overweight was present in 30.77%, obesity 12% mostly in females and in\r\nurban population, among the predisposing factors are family history, eating fast food\r\nand little physical activity.\r\nConclusions: more than quarters of students wereoverweight or obese and are\r\nexposed to factors modifiable and non-modifiable risks.\r\n"</dbo:abstract>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2019</dbo:year>
+        <dbo:author>
+          <rdf:Description rdf:about="http://example.org/data/Person">
+            <foaf:name>Delgado Fern�ndez Jos_ Ram�n</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103500078</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >913932042</dbo:documentIdentification>
+            <foaf:name>Sarango Solano Fernanda Elizabeth</foaf:name>
+            <foaf:name>Cede�o Villacis Roxana Patricia</foaf:name>
+            <foaf:name>Fries Andreas Erwin</foaf:name>
+            <foaf:name>Paladines Galarza Fanny Yolanda</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1102954805</dbo:documentIdentification>
+            <foaf:name>Guerrero Abril Liliana Anabel</foaf:name>
+            <foaf:name>Naranjo Franco Carlos James</foaf:name>
+            <foaf:name>Santoro Santillan Mar�a Gabriela</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103202550</dbo:documentIdentification>
+            <foaf:name>Duque Rengel Vanessa Karina</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1714479571</dbo:documentIdentification>
+            <foaf:name>Ayala Chauvin Marco Antonio</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1102094883</dbo:documentIdentification>
+            <foaf:name>Gonzalez Malla Janeth Patricia</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104049042</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >151865995</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103080089</dbo:documentIdentification>
+            <foaf:name>Flores Chamba Jorge Eduardo</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103142129</dbo:documentIdentification>
+            <foaf:name>Velez Leon Paulo Emanuel</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >911026680</dbo:documentIdentification>
+            <foaf:name>Ogo�o Granda Vicente Arcenio</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >915256085</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >104661905</dbo:documentIdentification>
+            <foaf:name>Fierro Jaramillo Natacha Del Cisne</foaf:name>
+            <foaf:name>Monteros Cueva Karina</foaf:name>
+            <foaf:name>Toro Gallardo Lisset Vanessa</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1102842505</dbo:documentIdentification>
+            <foaf:name>Benitez Hurtado Jorge Alonso</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103505242</dbo:documentIdentification>
+            <foaf:name>Arevalo Benito Hector</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >703084707</dbo:documentIdentification>
+            <foaf:name>Kalinhoff Rojas Carolina Gertrudis</foaf:name>
+            <foaf:name>Celi Carrion Luisa Ivonne</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1714546312</dbo:documentIdentification>
+            <foaf:name>Negrete Zambrano Jose Fernando</foaf:name>
+            <foaf:name>Rohoden Jaramillo Katty Alexandra</foaf:name>
+            <foaf:name>Guayasamin Mogrovejo Mateo Nicolas</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104464274</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104147143</dbo:documentIdentification>
+            <foaf:name>Torres Acosta Jorge Alonso Rodrigo</foaf:name>
+            <foaf:name>V�squez Escand�n Adri�n Felipe</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1102770011</dbo:documentIdentification>
+            <rdf:type>http://xmlns.com/foaf/0.1/Person</rdf:type>
+            <foaf:name>Semp_rtegui Fern�ndez Luis Fernando</foaf:name>
+            <foaf:name>Cambizaca Mora Grace Del Pilar</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >108760264</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104417918</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >702934407</dbo:documentIdentification>
+            <foaf:name>Ramon Mendieta Marlon Giovanni</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1757827843</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >103547337</dbo:documentIdentification>
+            <foaf:name>Serrano Agila Richard German</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1105855520</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103042378</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104013006</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104422140</dbo:documentIdentification>
+            <foaf:name>Velez Montesdeoca Eric Emiro</foaf:name>
+            <foaf:name>Armijos Valdivieso Pablo Ramiro</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1711248003</dbo:documentIdentification>
+            <foaf:name>Jimenez Alvarez Leticia Salome</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103987721</dbo:documentIdentification>
+            <foaf:name>Pacaj� Ruiz Gabriela Michelle</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103425136</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103798904</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104636004</dbo:documentIdentification>
+            <foaf:name>Sandoval Nore�a Francisco Alberto</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1708664451</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1105161689</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >BA673385</dbo:documentIdentification>
+            <foaf:name>Cordero Zambrano Jorge Marcos</foaf:name>
+            <foaf:name>Celi Toledo Israel Patricio</foaf:name>
+            <foaf:name>Camacho Minuche Gina Karina</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103329486</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1723935944</dbo:documentIdentification>
+            <foaf:name>Moreno Hurtado Carlos Andres</foaf:name>
+            <foaf:name>Duque Yaguache Edwin Patricio</foaf:name>
+            <foaf:name>Vallejo Delgado Merci Lorena</foaf:name>
+            <foaf:name>D Elia Pierina</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104074842</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1102856596</dbo:documentIdentification>
+            <foaf:name>Songor Jaramillo Ximena Del Cisne</foaf:name>
+            <foaf:name>Erazo Bustamante Silvana Esperanza</foaf:name>
+            <foaf:name>Cabrera Cisneros Hugo Omar</foaf:name>
+            <foaf:name>Carri�n Salinas Gianella Alejandra</foaf:name>
+            <foaf:name>Arteaga Mar�n Juan</foaf:name>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >104645643</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103035216</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104107907</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1104029721</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1707028112</dbo:documentIdentification>
+            <dbo:documentIdentification rdf:datatype="http://www.w3.org/2001/XMLSchema"
+            >1103320865</dbo:documentIdentification>
+          </rdf:Description>
+        </dbo:author>
+        <foaf:name>Jos_ Gaos y el pensamiento hispanoamericano de lengua espa�ola en el marco de la filosof�a moderna y contempor�nea</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La producci�n social como herramienta de formaci�n y desarrollo socio comunitario fundamenta en la actualidad el proceso de transformaci�n del modelo de producci�n ex�geno a end�geno a fin de responder primordialmente a las necesidades humana, hacia la consolidaci�n de la soberan�a alimentaria. La necesaria municipalizaci�n universitaria trabajando desde un enfoque productivo en el �rea de desarrollo rural ofrece a los pobladores oportunidades de crecimiento econ�mico y mejoras en la calidad de vida. La presente investigaci�n desde la visi�n socio-cr�tica propone analizar la acci�n social de la pr�ctica del Servicio Comunitario de participantes ueserristas cuyos proyectos socioproductivos agr�colas aprovechan las condiciones naturales de la comunidad y la autogesti�n de la escuela Bolivariana �Miquimbay� ubicada en el Municipio Carache Estado Trujillo. El m_todo de Investigaci�n Acci�n permiti� articular las acciones entre la investigadora, la Universidad Nacional Experimental Sim�n Rodr�guez n�cleo Valera y la Comunidad mencionada a trav_s de la investigaci�n de campo, t_cnicas de observaci�n. El impacto social del presente estudio se traduce en un aporte de experiencias comunitarias   fundamentadas en una filosof�a realista, social, participativa y comunicativa, en pro de un desarrollo nacional incluyente garantizando la justicia social, la conservaci�n del ambiente y la sustentabilidad para las pr�ximas generaciones.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La subvaloraci�n o sobre valoraci�n de las mercader�as son los problemas cotidianos con los que se enfrenta el sistema de control del valor de las mercader�as, llegando en algunos casos a detectarse el cometimiento de delitos aduaneros.</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >30/8/18</dbo:firstPublicationDate>
+        <foaf:name>Sistema de Gesti�n de las emociones en un sal�n de clases inteligente basado en Modelos de confianza y reputaci�n</foaf:name>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2007</dbo:year>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >26/2/19</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La movilidad humana es un factor social que acompa�a a la poblaci�n mundial\r\ndesde sus inicios, a trav_s de los procesos migratorios que han evolucionado en concordancia\r\ncon la agudizaci�n de la crisis econ�mica y con otros factores sociales. En el a�o 2000, Ecuador\r\nvivi� uno de los momentos migratorios m�s relevantes de la historia, con m�s de 560.000\r\npersonas que salieron del pa�s, lo que representa un 4% de la poblaci�n. En su momento, este\r\nfen�meno pr�cticamente se produc�a en el g_nero masculino, pero en la actualidad el informe\r\nde la Organizaci�n de las Naciones Unidas (ONU) destaca que aproximadamente 104 millones\r\nde mujeres (48,3% poblaci�n migrante mundial) ya son parte de este proceso. El papel de la\r\nmujer dentro de la migraci�n y su incidencia en el desarrollo social han sido analizados en\r\nun trabajo de investigaci�n liderado por Merci Vallejo Delgado, docente investigadora del �rea\r\nSociohuman�stica de la Universidad T_cnica Particular de Loja (UTPL) y un equipo de trabajo de\r\nesta misma instituci�n y Mar�a Fannery Su�rez Berrio y Andrea Mila Maldonado de la Pontificia\r\nUniversidad Cat�lica _ sede Ibarra (PUCESI).</dbo:abstract>
+        <foaf:name>Retos del humanismo en las universidades: del ideal a lo vivencial</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La red intersubjetiva  es el espacio  de interpretaci�n simb�lica ideal para que los estudiantes  desarrollen la comunicaci�n asertiva. De all� que la investigaci�n tiene como prop�sito interpretar los procesos de comunicaci�n asertiva en la red intersubjetiva estudiantil de la Universidad Nacional Experimental �Sim�n Rodr�guez� N�cleo Valera Estado Trujillo. Para ello, se utiliz� el m_todo  etnogr�fico que permiti� describir la realidad humana a partir de la informaci�n proporcionada por los estudiantes de la UNESR Valera, que participaron en   una entrevista en  profundidad, que hizo posible fundamentar una interpretaci�n desde la categor�a emergente comunicaci�n asertiva. Los resultados permiten plantear  la posibilidad de promover la comunicaci�n asertiva en la red intersubjetiva estudiantil, como una manera de lograr que el estudiante exprese adecuadamente sus emociones y asuma el conflicto desde la posibilidad del encuentro asertivo con el otro</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"This research study is an attempt to examine the effectiveness of using Powtoon and VideoScribe to prepare the pre-class material needed to apply the flipped classroom strategy in order to improve the listening and speaking skills on distance undergraduate students in a local university in the city of Loja. To analyse the information gathered from the research field quantitative and qualitative methods were used the participants were 19 students in total from the Listening and Speaking IV class, they were randomly assigned to either the control or experimental group. In conclusion, the learning experience of using �VideoScribe� and �Powtoon� in a flipped class to improve listening and speaking skills was satisfactory for students. They showed a great acceptance towards the way in which the flipped classroom strategy was developed since they decided when and how to learn according to their schedules. The material presented, as well as the format and structure of the contents was highly acknowledged by the learners. Additionally, the flipped classroom strategy promoted higher grades and motivation on the members of the experimental group."</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Este trabajo consiste en contar y mostrar al Fanzine como un recurso de aprendizaje en el aula\r\nque tiene como objetivo generar un mayor acercamiento a la lectura y escritura de textos informativos y\r\nliterarios. La propuesta consiste en dar a conocer el concepto principal del Fanzine, de sus alcances y\r\nmostrar dos experiencias pedag�gicas llevada a cabo en la asignatura de Redacci�n y Comprensi�n\r\nLectora de la Universidad T_cnica Particular de Loja. Con esta herramienta, los estudiantes pusieron en\r\npr�ctica el contenido esencial de la asignatura sumado con elementos personales y creativos provenientes\r\nde su propia experiencia</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >3/5/19</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >En este art�culo, se propone un modelo de confianza y otro de\r\nreputaci�n, para la gesti�n de las emociones en un Sal�n de Clases Inteligente\r\n(SaCI). En general, un SaCI puede modelar como agentes a sus diferentes\r\ncomponentes de hardware y de software. Por otro lado, en los ambientes inteligentes\r\nmodelados con agentes, es necesario definir los mecanismos de interacci�n usados\r\nen las conversaciones entre los agentes. Adem�s, las conversaciones deben ser\r\nenriquecidas con modelos de confianza y reputaci�n de los agentes involucrados\r\nen las mismas, para que cada agente pueda decidir qu_ informaci�n, procedente\r\nde los distintos agentes, considerar al momento de ejecutar sus procesos de toma\r\nde decisi�n. Particularmente, se desarrollan modelos de confianza y reputaci�n\r\npara los agentes de SaCI. Esos modelos se usan en una conversaci�n que realiza la\r\ngesti�n de las emociones en SaCI, la cual permite definir la emoci�n que prevalece\r\nen un momento dado en _l, a la que llamamos emoci�n social. La conversaci�n\r\nes probada en varios casos de estudio, con la finalidad de validarla su capacidad\r\npara establecer la emoci�n social de SaCI. Los resultados experimentales con el\r\nsistema de gesti�n de las emociones basado en modelos de confianza y reputaci�n,\r\ndemuestran que es capaz de determinar la emoci�n social en SaCI sin importar las\r\ncaracter�sticas de su contexto y aprendiendo del comportamiento de los agentes, lo\r\nque le da una gran robustez.</dbo:abstract>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2017</dbo:year>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >En la actualidad los constantes cambios econ�micos, pol�ticos y culturales, asignan a la educaci�n universitaria una funci�n y responsabilidad social  indiscutible ante el acelerado proceso de transformaci�n que sacude el pa�s y la organizaci�n comunitaria. En Venezuela se profundiz� el debate entre organizaci�n comunitaria y comunicaci�n impulsado por las necesidades e intereses comunes,  vinculando la pol�tica p�blica y la dimensi�n comunicativa organizacional con los �mbitos acad_micos-universitarios. En tal sentido ante el tradicional modelo hegem�nico de comunicaci�n, se han creado alternativas como son radio y peri�dico comunitario, generando espacios emancipatorios de aprendizaje, participaci�n y transformaci�n. El presente trabajo se apoy� en la teor�a de la acci�n comunicativa de H�bermas  consider�ndola, seg�n los contextos de interacci�n. Asimismo se centr� en un an�lisis reflexivo acerca de las experiencias comunitarias en cuanto a su din�mica comunicacional y en la pr�ctica acad_mica, investigaci�n y extensi�n que se traduce en interacci�n universidad-comunidad para la ejecuci�n de los proyectos. Para cumplir con este objetivo, se procedi� a realizar un estudio de tipo emp�rico, te�rico-documental que permiti� cruzar, interpretar y analizar la informaci�n referente a la pertinencia de los medios de comunicaci�n como estrategia de fortalecimiento comunitario mediante novedosos planteamientos de la educaci�n universitaria. Al respecto, este trabajo pretende ser un aporte a la profundizaci�n, desarrollo y ejecuci�n de los Objetivos Hist�ricos planteados en el Plan Patria 2013-2019 para alcanzar la Independencia Nacional.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"aBsTRacT: It is fairly well known that Jos_ Gaos (1900-1969) suggested the possibility of talking about �Latin\r\nAmerican thinking�: referring to �thinking�, he argued that the subject matter is Philosophy, while at the same\r\ntime possessing aesthetic forms of reasoning, and also that moral thought and ideology (or �philosophy�) can\r\nbe found in literature. Therefore, Gaos argues that in thinking written in the Spanish Language, on both sides\r\nof the Atlantic, the features of a thinking that is aesthetic in form but philosophical in its ideas could be\r\nobserved.\r\nKeY woRds: �Latin American Thought�, Jos_ Gaos, Philosophy, Literature, Aesthetics, (Non)Metaphysics,\r\nEssay, Scientific article, Spain, America.\r\nResUmeN: Es bastante desconocido que Jos_ Gaos (1900-1969) surgiri� la posibilidad de hablar de\r\n�pensamiento hispanoamericano�: al referirse al �pensamiento�, dijo que se trata de una materia que es\r\nfilosof�a, al tiempo que posee formas est_ticas de razonar, y que, adem�s se encuentra en la literatura el\r\npensamiento moral, y la ideologia es decir, la filosof�a. As� mismo, Gaos sostuvo que en el pensamiento\r\nescrito en lengua espa�ola, en ambos lados del Atl�ntico, ya se pod�an observar estos rasgos: un pensamiento\r\nest_tico en sus formas, pero filos�fico en sus contenidos.\r\npaLaBRas cLave: Pensamiento Hispanoamericano, Jos_ Gaos, Filosof�a, Literatura, Est_tica, (A)Metaf�sica,\r\nensayo, art�culo, Espa�a, Am_rica."</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"La transformaci�n social de la actualidad est� asociada a la necesidad de cambios que obliga a la comunidad universitaria articular su acci�n con el contexto en el cual se desenvuelve. En tal sentido la misma asume el compromiso de interacci�n comunitaria asignando a dos participantes-facilitadores-investigadores el protagonismo en la articulaci�n entre la teor�a, la pr�ctica y las necesidades locales esos lineamientos fundamentan el servicio comunitario legalmente sustentado entre la universidad y la comunidad. \r\n"</dbo:abstract>
+        <foaf:name>Subempleo en el mercado laboral juvenil en Ecuador</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Pensar en S�crates es revivir el mundo griego en el siglo V A. C., es percibir la inquietud antropol�gica reinante en los �nimos de la Atenas democr�tica, es reflexionar sobre la conformidad entre lo que se piensa, lo que se dice y lo que se hace. El gran maestro ateniense como reafirmando su filosof�a no dej� escrito alguno, sin embargo Los Di�logos de su disc�pulo Plat�n, representan una rica fuente de informaci�n para apreciar sus postulados. Para S�crates en la b�squeda del conocimiento, considerado como una reflexi�n consciente de pertenencia humana, predomina el anhelo de la �Verdad� como origen y fin de la existencia humana, por ella, predica incesantemente a la juventud ateniense, para ella inmola su vida. Contextualizar y caracterizar el pensamiento socr�tico para entender su interpretaci�n de la vida, obliga a reflexionar sobre la crisis de la praxis axiol�gica en la educaci�n actual, y sobre la trascendencia del mensaje griego que interpreta el proceso educativo como indiscutible v�a hacia la libertad y la justicia.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"En este art�culo, se propone un patr�n jer�rquico para identificar el\r\nestilo de aprendizaje de los estudiantes en un sal�n de clases, que se compone de\r\ndos niveles, uno para reconocer el estado emocional, y otro para identificar el estilo\r\nde aprendizaje. Cada nivel est� definido por diferentes tipos de descriptores, que se\r\nperciben desde un enfoque multimodal. Adem�s, utilizando el patr�n jer�rquico,\r\nse analizan dos enfoques, para modelar y reconocer el estilo de aprendizaje, el\r\ncual puede ser visual, auditivo, lectura/escritura, kinest_sico. Uno de los enfoques\r\nes basado en l�gica difusa, y el otro basado en cr�nicas, los cuales explotan la\r\nidea de recursividad y aprendizaje en el proceso de reconocimiento. Finalmente,\r\nconsiderando el entorno din�mico en el que se desarrollan las clases, se comparan\r\nlos enfoques, en cuanto a sus capacidades para aprender y determinar los estilos de\r\naprendizaje y para comunicar dicha informaci�n claramente en un sal�n de clases\r\ninteligentes, basada en las emociones reconocidas."</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >N/A</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >23/1/19</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Some species of the Clusia genus have been shown to have important biomedical properties, including the ability to inhibit tumor growth in vitro and the usefulness for skin care. In this study, we examined the cytotoxic effect of hexane, ethyl acetate and methanol extracts from Clusia latipes Planch. &amp; Triana, Clusiaceae, leaves on survival of human prostate cancer cells (PC-3), colon cancer cells (RKO), astrocytoma cells (D-384), and breast cancer cells (MCF-7). The ethyl acetate extract displayed the most substantial cytotoxic effect. However, using a Comet assay, we observed that the hexane extract induced a genotoxic effect (DNA damage) on human lymphocytes in an in vitro model. Chromatographic purification of the C. latipes hexane extract led to the isolation and identification of friedelin, friedolan-3-ol, and hesperidin as active cytotoxic compounds in hexane extract, while _-amyrine was identified as an active cytotoxic compound in the ethyl acetate extract of C. latipes, thereby supporting further studies of the molecular mechanisms underlying the effect of these secondary metabolites on cancer cell survival.</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/9/15</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Esta investigaci�n comprende el estudio del uso de la Internet (como medio de comunicaci�n) y la red social Facebook en los adolescentes del Ecuador del a�o 2015. Se trabaj� con una muestra de 30 instituciones educativas de nivel medio en 13 ciudades del Ecuador, se realizaron 7542 encuestas en la poblaci�n objeto de estudio que fueron los adolescentes de d_cimo a�o de educaci�n b�sica a tercer a�o de bachillerato (14 a 18 a�os), considerados generacionalmente como Millennials. Los resultados indican que los principales usos de la Internet en este grupo espec�fico incluyenobservar videos en Youtubee ingresara redes sociales �espec�ficamente Facebook� en donde se verifican las actividades m�s importantes y los momentos en que acceden estosusuarios, hoy conocidos como prosumidores</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >In this paper, we address the problem of forming stable groups of femtocells that can reduce the complexity of the resource management and enhance the subscribers� satisfaction while guaranteeing the service to nearby public users. In a macro-femtocell network, the resource management becomes a very challenging task as the number of deployed femtocells increases. Several strategies of clustering have been proposed to allocate resources in a distributed manner. However, forming stable clusters of femtocells is yet to be addressed. We propose a distributed cluster-based resource allocation framework that consists of three components: (1) a base station selection algorithm for public users that guarantees them a high data rate, (2) a coalition game, where femtocells are grouped into stable clusters to reduce the resource allocation complexity, and (3) a fair resource allocation using the Shapley value to compute the payoff of each cluster member based on Particle Swarm Optimization algorithm. The _-core concept from game theory is used as the stability criteria to form the clusters. A performance comparison is carried out between the proposed solution and two benchmark models: a centralized approach and a distributed approach with non-stable group formation. Simulation results show that our framework indeed increases the network throughput, provides higher subscribers satisfaction, and higher Jain fairness index for the distribution of resources among the existing users in the femto-tier. � 2018 Elsevier B.V.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >The main objective of this study is to spread the religious poetry that write Father Theophilus Gaivao Mier during the different stages of his life through poems Message of Peace, Children�s Christmas, Sacred tenths and Joys to the Virgin of Montserrat. This literary work intends to express the historical, theological and motivational events that inspire to the priest for write in each one of his poetics. Based on the methodological design, this article responds to the research line of the career of Social Commu- nication with mention in Production Audiovisual and Multimedia of the Salesian Polytechnic University: Communication, Culture and multiculturalism, theoretical studies and practical experiences. The study on the Religious Poetry of Father Theophilus Gaivao Mier Theophilus as a vehicle of social communica- tion is undertaken from the qualitative paradigm and quantitative paradigm. The sample selected is 68 lay people and people of the consecrated life of the Catholic Church. The survey was used a quantitative method to determine the unfamiliarity in religious poetry. The scope of this research study is exploratory. It propose to the respondents to read religious poetry and 90% responded affirmatively. Therefore the cause of why is not being read it is because it is not broadcast. Nowadays there are people eager to know and discover the poetry with vallenato music composition of Father Theophilus Gaivao Mier as a vehicle for social communication.\r\n</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >15/10/18</dbo:firstPublicationDate>
+        <foaf:name>Recuperaci�n de T_cnicas Constructivas Tradicionales de la Parroquia Chuquiribamba, Ecuador</foaf:name>
+        <foaf:name>INTERCULTURALIDAD E INTEGRACI�N SOCIAL: LA INMIGRACI�N ITALIANA PARA VENEZUELA EN LOS A�OS 1950</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >The main optical traits of leaves, which are\r\nneeded to parameterize the Community\r\nLand Model (CLM) submodel of the new\r\nLand Surface Model, are reflectance and\r\ntransmission in the visible spectrum (VIS,\r\n400 nm to 780 nm = photosynthetically active\r\nradiation, PAR) and the near infrared\r\nspectrum (NIR, &gt;780 nm). The current plan\r\nfor the joint field campaign of project A1\r\nis to harvest the leaves from the selected\r\ntrees, bring them to the Estacion Cientifica\r\nSan Francisco (ECSF) and measure these\r\ntraits by spectrometry. This, however, requires\r\na stable signal for several hours\r\nfrom collection to measurement, while the\r\nwater supply of the leaves is interrupted.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Capacitaciones FAO brinda herramientas para docentes y estudiantes en toda la regi�n. Natacha Del Cisne Fierro Jaramillo, de Ecuador, aplica lo aprendido tanto en el trabajo de campo como en su labor en la universidad.\r\n</dbo:abstract>
+        <rdf:type>http://dbpedia.org/ontology/WrittenWork</rdf:type>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Decidimos necesariamente enmarcar las presentes ideas en varios postulados de lo que constituye el pensamiento pedag�gico del connotado fil�sofo y maestro, que aunque espa�ol de nacimiento, consideramos nuestro, pues ya tiene m�s de treinta a�os en nuestro pa�s, viviendo difundiendo y sobre todo contagi�ndonos con su misi�n y visi�n de la educaci�n. Nos referimos al Dr. Antonio P_rez Esclarin y un primer postulado que aprovecharemos para ir modelando el camino de nuestro discurso se refiere a que: �no debemos quejarnos de la apat�a de nuestros alumnos si el ideal de nuestros centros educativos parece ser el silencio y la paz de los cementerios� esta afirmaci�n nos hace reflexionar y nos lleva a reconsiderar determinadamente el articulo 27 de la ley org�nica de la Educaci�n en Venezuela. En la cual se postula que uno de los objetivos de la Educaci�n superior es fomentar la investigaci�n de nuevos conocimientos e impulsar el progreso de la ciencia, la tecnolog�a, las letras, el arte y adem�s manifestaciones creadoras del esp�ritu en beneficio del bienestar del ser humano, de la sociedad y del desarrollo independiente de la naci�n por tal raz�n las Universidades y los centros especializados en la formaci�n de investigadores en lo que respecta a investigaci�n, esta llamado a cumplir diferentes tareas como: Fundamentar el sistema nacional de investigaci�n, contribuir a la formaci�n de cient�ficos, contribuir al cambio t_cnico, contribuir al avance del conocimiento."</dbo:abstract>
+        <foaf:name>La cultura del Carmelo en la voz de Tel_fora</foaf:name>
+        <foaf:name>Factores que predisponen al sobrepeso y obesidad en estudiantes de colegios fiscales del Cant�n Loja-Ecuador</foaf:name>
+        <foaf:name>Estrategias para el aprendizaje en un curso de la Ciencia del Suelo: de observador a protagonista</foaf:name>
+        <foaf:name>Analyzing optical trait dynamics for selected tree species as a preparation for a plant functional type (PFT) survey</foaf:name>
+        <foaf:name>La noci�n de equipartici�n de fracci�n y sus herramientas de verificaci�n en un contexto musical</foaf:name>
+        <foaf:name>Identification of Human Behavior Patterns Based on the GSP Algorithm</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Los derechos humanos de las personas privadas de libertad son un an�lisis doctrinario y normativo\r\nen contraste con la realidad penitenciaria ecuatoriana. Esta reflexi�n visualiza la contradicci�n existente\r\nentre las pretensiones de garant�a y respeto de los derechos m�nimos de las personas privadas de\r\nlibertad y la realidad que se vive en los centros penitenciarios de Ecuador, seg�n reporte estad�stico\r\ndel 2017, donde se observa un alto �ndice de hacinamiento, cuya consecuencia es la violaci�n de\r\nlos derechos fundamentales que asisten a la poblaci�n reclusa. Entre el Estado y la poblaci�n reclusa\r\nexiste una relaci�n jur�dica de sujeci�n especial que convierte a ese Estado en garante de los derechos\r\nfundamentales m�nimos que les asisten a estas personas que se encuentran en una situaci�n de doble\r\nvulnerabilidad. La necesidad de establecer derechos m�nimos para el tratamiento de las personas\r\nprivadas de libertad se sustenta en la dignidad humana, atributo que no se pierde con la limitaci�n\r\nde la libertad y de aqu� se explica el af�n de la comunidad internacional de conminar a los gobiernos\r\npara que protejan y garanticen, a trav_s de la norma jur�dica, los derechos fundamentales que tienden\r\na propiciar condiciones b�sicas que aseguran una calidad de vida digna en prisi�n. En conclusi�n, la\r\nbase jur�dica existe para la protecci�n de los derechos m�nimos de las personas privadas de libertad,\r\npero se ha quedado en meros actos declarativos que requieren de la voluntad del Gobierno, plasmada\r\nen pol�ticas p�blicas que permitan la eficiencia y eficacia de la norma.</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/4/18</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/5/16</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Lograr una participaci�n de los usuarios con tinte period�stico se ha convertido en el gran desaf�o de los medios digitales de la Comunidad Andina y del mundo. La presente investigaci�n analiza las formas de interacci�n, medios para relacionarse, modelos y herramientas que poseen los cibermedios para que el usuario aporte datos relevantes. Los diarios digitales objeto de estudio son: El Comercio de Per�, El Tiempo de Colombia, El Deber de Bolivia y El Universo de Ecuador. Metodolog�a. Se basa en una investigaci�n de tipo cualitativa y cuantitativa, mediante la observaci�n de los medios digitales durante dos semanas, para determinar niveles de interactividad y participaci�n de los ciudadanos, criterios y valoraciones que dan a las noticias. Resultados. La investigaci�n concluye que la participaci�n de los usuarios proporciona credibilidad, mantiene al medio digital vivo y cumple con el prop�sito del cibermedio que es educar, entretener y formar a su audiencia. Los usuarios pueden ser incluso productores de nuevos contenidos y practicar un periodismo ciudadano responsable.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Orthogonal frequency division multiplexing (OFDM) is a modulation and multiplexing technique widely used in communication systems since it guarantees reliable communications on noisy wireless channels. However, OFDM implementation is a very challenging task due to the high peak-to-average power ratio (PAPR) value. In this work, a PAPR reduction technique is applied, namely clipping technique. This technique is evaluated in a real OFDM system, which is implemented in software defined radio (SDR). We present and demonstrate that is possible to increase the range and coverage through the efficient use of the transmission power when the PAPR reduction technique is applied in the SDR technology. The results show that when a clipping technique with a threshold of 60% is used, the power required is reduced in 33.75%. Additionally, the reduction percentage could be transformed into 9.58% of increase in range and 63.07% in coverage.</dbo:abstract>
+        <foaf:name>Lo social a trav_s de los medios alternativo de comunicaci�n en la organizaci�n comunitaria</foaf:name>
+        <foaf:name>Comportamiento matem�tico del avance de obra mediante an�lisis de series temporales de coordenadas GPS: central hidroel_ctrica Delsitanisagua, Ecuador</foaf:name>
+        <foaf:name>Aporte de los usuarios en la construcci�n de contenidos digitales en los principales medios de comunicaci�n de la Comunidad Andina</foaf:name>
+        <foaf:name>El Fanzine en el aula: una propuesta did�ctica para leer y escribir historias</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >The purpose of this study is to determine the use of the Communicative Language Teaching approach in the English classroom and the strategies and resources used by the teachers to improve students� oral skills. The participants were 6 English teachers and 105 students enrolled in the 2nd, 3rd, and 4th grades at a public elementary school in the city of Loja, located at the southern part of Ecuador. A mixed method approach was applied in this study. In order to collect the data, a questionnaire was given to the English teachers and class observations were carried out. The results obtained throughout this study reveal that modeling, repetition, pair and group work are the main strategies used by teachers to help students develop communicative competences. These strategies were frequently used but still not enough to promote active participation during classes. It is important to highlight that there is a variety of strategies besides the ones previously mentioned that can be incorporated to offer students more opportunities to orally produce the language. Additionally, teachers provide different kinds of feedback such as metalinguistic feedback and elicitation as a way to help students improve their oral skills.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"A total of 411 vernacular names were recorded for 354 edible noncrop\r\nplant that are used by nonmdigenous mestizo pl""{Jple and in&lt;ligieO()U8\r\nShuar in southern lVfestizo plant names, predominantly :&gt;p,am.sh,\r\nare often formed through borrowing from native languages, or ne-\r\nThese are mechanisms typically vs,,'-d by immigrants to name unknown\r\nplants. Mestizo names show different of regional variability, though many\r\nare shared throughout the region, Vegetation diversity of an area InlJuenccs the\r\ndivcrsity of local plant names, Indigenous Shuar p�()ple use only Shuar plant\r\nnames, which show little variation within the area they inhabit. A comparison of\r\nmestizo and Shuar naming pra(,tlces suggest'&gt; that mestizo people arE:' more likely\r\nto give the same name to different plant species and to use more bino.rniaI names\r\nthan Shuar people do."</dbo:abstract>
+        <foaf:name>�Desigualdad en Sudam_rica? Un an�lisis de convergencia econ�mica: 1960_2015</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >The goal of this project is the implementation of a simulation that gets the vital information of a soccer player�s body through Wireless Body Area Network (WBAN). With this objective in mind, several programming language environments are compared with each other. This simulation only has one sample to follow according to the proposal. Therefore, the challenge is to create a new simulation sample and other platforms to compare the accuracy and delay between communications. WBANs are not conceived to carry large amounts of data, according to the WSN (wireless sensor network) concept. This entails a problem when designing applications for this kind of networks. Lastly, in respects to the results that will be presented. The results will be about which one simulation is better or what differences lay between the different environments of development.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Resumen  El objetivo de esta investigaci�n consiste en analizar la construcci�n de la noci�n de equipartici�n en estudiantes de primaria, a trav_s de objetos musicales. Este inter_s surgi� al observar que los m_todos utilizados en la actualidad para la ense�anza de las fracciones no ofrecen un mecanismo de comprobaci�n de la existencia o no de la equidad de las partes. Por lo tanto, en este estudio se pretende proveer a los estudiantes de diversas herramientas para identificar las consecuencias ac�sticas que surgen del incumplimiento de la equipartici�n. Las mismas pueden ser representadas de forma visual, corporales y auditiva. Esta investigaci�n de tipo cualitativo y desarrollo curricular se realiz� con estudiantes de 4_ y 5_ grado de educaci�n primaria en un contexto rural, ubicada al occidente de Antioquia, Colombia. Dentro de los hallazgos de la investigaci�n, se considera que los estudiantes inmersos en un mundo interdisciplinar real adquieren herramientas f�sicas y simb�licas para determinar la existencia o no de una equipartici�n. Es as� como los escenarios diferentes a los tradicionales, dotados de experiencias y representaciones, logran contribuir a la construcci�n de la noci�n de equipartici�n en los estudiantes.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"En la actualidad el acelerado proceso de transformaci�n social, la organizaci�n del saber, exigen un replanteamiento de la acci�n pedag�gica fundamentada en la formaci�n de los estudiantes, en la renovaci�n de los recursos y metodolog�as, en la actualizaci�n de los docentes y en la socializaci�n del conocimiento. En tal sentido, la virtualidad como fen�meno social integracionista de competencias cognitivas y operativas, se articula inevitablemente con la educaci�n. Desde esta visi�n las Tecnolog�as de Informaci�n y Comunicaci�n (TIC), asumen un protagonismo indiscutible en el desarrollo cient�fico y tecnol�gico. Sin embargo en la realidad socio-educativa se cuestiona la formaci�n de los docentes en cuanto a la gesti�n de las tecnolog�as como herramienta para el alcance del aprendizaje significativo, el manejo adecuado del conocimiento y la resoluci�n de los problemas. Este estudio se centr� en un an�lisis cr�tico reflexivo acerca de la gesti�n de la tecnolog�a, innovaci�n y  comunicaci�n educativa del contexto escolar: �Escuela Bolivariana Elo�sa Fonseca� de Valera, Estado Trujillo escuela piloto de los Centros Bolivarianos de Inform�tica y Telem�tica. Se implement� un modelo de investigaci�n cualitativa, etnogr�fico. Los actores sociales se seleccionaron aplicando el muestreo te�rico de acuerdo a criterios ad hoc. Los hallazgos se alcanzaron a trav_s de la observaci�n y entrevistas a profundidad. Para el an�lisis se utiliz� la triangulaci�n. Se pudo concluir que en el contexto en estudio, la gesti�n las TIC fomentan el aprendizaje agradable y significativo y estimulan una actitud cient�fica permanente en los estudiantes adem�s su aplicaci�n, propicia el pensamiento cr�tico, reflexivo y estimula la actitud cient�fica. Esto hace indiscutible la implicaci�n de una generaci�n de educadores con una formaci�n permanente, capaces de dise�ar y llevar a la pr�ctica un paradigma educativo innovador, que conjugue la sinergia entre la tecnolog�a y las propuestas, entre qui_n aprende, lo que se aprende y el contexto de aprendizaje."</dbo:abstract>
+        <foaf:name>�Qu_ sucede a lo largo de la curva de distribuci�n en una econom�a capitalista y una econom�a �socialista del siglo XXI�?</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >14/12/18</dbo:firstPublicationDate>
+        <foaf:name>La seguridad de la informaci�n: Aspecto crucial que toda empresa del siglo XXI debe gestionar</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >This article describes the developing of a computer tool to evaluate the liquefaction potential in seismic zones. The tool consists of: i) a pre-processing script, Seismological Research Letters Volume 89, Number 2B March/April 2018 813 ii) calculation or process script, and iii) a post-processing script. The pre and\r\npost-processing stages are carried out by using the Matlab software through the GUIDE development environment, while the process uses OpenSees as a calculation engine. The layered deposit of cohesionless soil subject to a seismic base excitation is represented by a 2D finite element model using nine-node quadrilateral elements by considering the displacement and pressure of pores as degrees\r\nof freedom. The validation process showed that the generated soil column model properly represents the problem posed. The application of this tool was done by modeling 1325 samples corresponding to 14 theoretical scenarios in which the following variables were considered and permuted: depth of the soil column, stratigraphy, groundwater level, relative soil density, and intensity of seismic load. All this, in order to know the degree of influence of each of these parameters on the liquefaction phenomenon. The results showed that the phreatic level and the relative density of the soil are the most sensitive variables, which are in accordance with the theoretical foundations studied. Additionally, there was geotechnical information from two soil profiles of the Tarqui parish, Ecuador (area affected by soil liquefaction during the 2016 Ecuador earthquake). This information was used to evaluate and verify the susceptibility of these soils before the aforementioned phenomenon. Finally, It is worth mention that this tool is part of the Virtual Laboratory of the Technical University of Loja (UTPL), which is managed by its Research Group of Seismic Engineering and Seismology (GRISSUTPL) (http:www.ingenieriasismica.utpl.edu.ec/) \r\n</dbo:abstract>
+        <foaf:name>The Use of the Communicative Language Teaching Approach to Improve Students� Oral Skills</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >27/3/18</dbo:firstPublicationDate>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2006</dbo:year>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2012</dbo:year>
+        <foaf:name>Enfoques Inteligentes para Identificar Estilos de Aprendizaje de los estudiantes mediante las Emociones en un sal�n de clases</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Resumen y estado del Arte sobre Jos_ Gaos y su filosof�a.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >En este ensayo analizamos la divergencia que existe entre los avances normativos que protegen a las mujeres en Ecuador y los grandes retos del pa�s para proteger efectivamente los derechos de las mujeres. Aunque en materia normativa se ha avanzado en la protecci�n de los derechos de las mujeres, la necesidad de mejorar la implementaci�n de las pol�ticas p�blicas y de propiciar un cambio cultural es innegable. Aqu� presentamos informaci�n sucinta sobre normativa, pol�ticas p�blicas e indicadores de derechos, e intentamos reflexionar sobre los retos de la protecci�n estatal y cambio cultural a tenor de las recomendaciones del Comit_ del CEDAW.</dbo:abstract>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2018</dbo:year>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >24/1/18</dbo:firstPublicationDate>
+        <foaf:name>Comunicaci�n preventiva  y de crisis en las instituciones privadas del Ecuador</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Este art�culo examina la relaci�n que existe entre la decisi�n de permanecer o abandonar\r\nlos estudios universitarios y el rendimiento acad_mico inmediato, siguiendo el patr�n de\r\ndispersi�n geogr�fica de la poblaci�n estudiantil, que es una de las principales fortalezas de\r\nla educaci�n a distancia. La informaci�n, base de la investigaci�n, corresponde a una cohorte\r\nde estudiantes matriculados en una carrera de grado a distancia de la Universidad T_cnica\r\nParticular de Loja (UTPL). Usando t_cnicas estad�sticas y econom_tricas _ principalmente\r\nmodelos de probabilidad multinivel - se logr� determinar que existe un efecto positivo del\r\nrendimiento acad_mico inmediato en la decisi�n que toman los estudiantes de permanecer\r\nen los estudios. Este patr�n de comportamiento se mantuvo en todos los centros de apoyo\r\nque tiene la UTPL, independientemente de su tama�o y distancia de la sede es decir, la\r\ndispersi�n geogr�fica del centro de matr�cula o lugar de vivienda del estudiante, no es un\r\nfactor que influye en las decisiones que _ste toma. La aversi�n a la p_rdida es el principal\r\nfactor de explicaci�n del comportamiento, el hecho de no ser eficiente genera un efecto directo\r\ne inmediato, como es natural, no le encuentra sentido a su permanencia ya que no ha logrado\r\nintegrarse adecuadamente."</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >11/2/19</dbo:firstPublicationDate>
+        <foaf:name>Aplicaci�n de las reglas de valoraci�n aduanera del GATT/OMC en el Ecuador.</foaf:name>
+        <foaf:name>Increase the Range and Coverage on OFDM System using PAPR reduction by Clipping on SDR</foaf:name>
+        <foaf:name>"OF ""CLIMBING PEANUTS' AND 'DOG'S TESTICLES', MESTIZO AND SHUAR PLANT NOMENCLATURE IN ECUADOR"</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/1/19</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >El presente documento tiene como finalidad, determinar si existen procesos de convergencia o de divergencia en Sudam_rica desde el a�o 1960 hasta 2015, para lo cual se recopil� datos del Producto Interno Bruto per c�pita de los diez principales pa�ses de la regi�n. A continuaci�n se procedi� a calcular la convergencia sigma, la cual implica que las econom�as m�s �pobres� tiendan a crecer m�s que las econom�as �ricas�, y tambi_n la convergencia beta, que permite conocer el nivel en el que las econom�as atrasadas crecen m�s que las econom�as ricas. Adem�s se ha determinado la convergencia beta para diferentes grupos de pa�ses de esta misma regi�n. Una vez aplicada la metodolog�a se pudo determinar que no existen procesos marcados de convergencia econ�mica para Sudam_rica y se refuta la convergencia en el largo plazo que se plantea en la econom�a ortodoxa, pero para los pa�ses del atl�ntico se comprueba la afirmaci�n de Baumol en la que menciona que los resultados de convergencia solo suceden entre pa�ses ricos, poniendo a la vista que las desigualdades en la regi�n son marcadas y la acumulaci�n de capital continuamente ampl�a la brecha econ�mica de pa�ses.</dbo:abstract>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"En Venezuela el fen�meno migratorio En Venezuela el fen�meno migratorio de las primeras d_cadas del siglo XX es muy significativo para el desarrollo econ�mico-social del Pa�s a diferencia de los siglos anteriores se puede hablar de una inmigraci�n de car�cter laboral, numerosa, con cierta organizaci�n favorecida en algunos casos por cambios ya recorridos sin embargo se mantuvo una pol�tica selectiva en cuanta a la entrad de los extranjeros debido a la confusi�n que exist�a en la naci�n por el papel que los inmigrantes podr�a tener para bien o para mal se tem�a que desplazaran a la fuerza trabajadora local y adem�s que pudiesen entrar agitadores y delincuentes y pudiendo as� llegar a desestabilizar al Pa�s por tal motivo las instituciones locales estudiaron diversas mediadas legislativas como la Ley sobre la Inmigraci�n de 1936, la Ley sobre los Extranjeros de 1937 y la fundaci�n del Instituto T_cnico de Inmigraci�n y Colonizaci�n."</dbo:abstract>
+        <foaf:name>La inmigraci�n italiana en Venezuela</foaf:name>
+        <foaf:name>El desarrollo socioproductivo agro-alimentario desde la municipalizaci�n universitaria. Caso: servicio comunitario UNESR estado Trujillo</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La participaci�n de los Estados en asuntos cient�ficos es cada vez mucho m�s activa y entusiasta, e. g., en el dise�o de pol�ticas cient�ficas o la creaci�n de mecanismos y herramientas de evaluaci�n del desempe�o de las entidades de car�cter cient�fico. Esta implicaci�n del Estado necesariamente direcciona las relaciones entre ciencia y pol�tica. En contextos democr�ticos, estas relaciones son estudiadas en el marco del Contrato Social para la Ciencia (CSC), que es un modelo te�rico para describir y comprender las relaciones entre la comunidad cient�fica y pol�tica. En este trabajo, me enfocar_ en describir las caracter�sticas fundamentales de lo que es el modelo cl�sico del contrato social para la ciencia y la nueva versi�n de este modelo, aportando razones para comprender porqu_ es importante que los actores pol�ticos se comprometan a apoyar y proporcionar los recursos financieros necesarios a la comunidad cient�fica para el progreso de la ciencia, sin que esto implique la intervenci�n pol�tica del Estado en la investigaci�n cient�fica y la obtenci�n de unos resultados espec�ficos. Es vital por otra parte que los actores de la comunidad cient�fica reconozcan la importancia de contar con un financiamiento p�blico del Estado para el desarrollo de la investigaci�n cient�fica, y por ello mismo se comprometan a ser �ntegros, productivos y desarrollar ciencia de buena calidad.</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >30/12/16</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >La microhistoria cuenta el convivir en situ, un escenario olvidado, unos rostros asombrados y la necesidad de conocer m�s all� de lo que se ve, lo que se oye y lo que se siente. Aqu� el lenguaje cient�fico contrasta con la voz de los protagonistas, un eco que se repite por generaciones y exige ser escuchada. Aqu� estoy, soy parte de esto, soy parte de ti en la cotidianidad del Carmelo, observando el pasado de esta comarca andina, una cultura pueblerina que palpita en cada esquina, en los �rboles frondosos, en los cafetos, en la huella del chim� callejero, en la viva voz de la partera Tel_fora cuya luchadora mirada se refleja en la c�mara, en el grabador, en la hoja blanca de papel. Se escribe lo que ya est� escrito y olvidado en el camino del academicismo, es la oportunidad de aprender y compartir en la objetividad intersubjetiva, la universalidad de aprender, que pertenece al ser y al terru�o en que se halla su andar.</dbo:abstract>
+        <foaf:name>EPIDENDRUM TRILOBOLEPTOPHYTUM H�gsater, Naranjo et. A.E.Mend., sp. nov.</foaf:name>
+        <foaf:name>EL INGREDIENTE EST�TICO. Apuntes sobre las relaciones entre filosof�a y literatura en Jos_ Gaos.</foaf:name>
+        <foaf:name>Respuestas del Estado ecuatoriano frente a la problem�tica del aborto</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Epidendrum triloboleptophytum belongs to the Leptophytum Group which is characterized by the straggling\r\nvegetative habit forming compact plants, delicate, grass-like, linear leaves, inflorescence racemose, subtended by a narrow,\r\nconduplicate spathe, flowers pale yellow, delicate, lip entire or 3-lobed, bicallose, calli elongate, parallel, fleshy, blending into a low midrib\r\nwhich runs down the middle of the lip. The species is recognized by the deeply 3-lobed lip, lateral lobes dolabriform, mid-lob\r\nnarrowly triangular, acuminate. Epidendrum leptophytum H�gsater, has the lip triangular-rhomboid in outline bicallose, calli elongate,\r\nparallel, fleshy, blending into a low mid-rib which runs down the middle of the lip lip overall triangular with the lateral margins\r\ndenticulate towards the base, entire towards the apex, basal corners rounded, the base abruptly narrowed, cuneate, fleshy, provided\r\nwith a pair of basal, very small, retrorse appendages, nearly parallel to the column."</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >6/2/19</dbo:firstPublicationDate>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2016</dbo:year>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"El presente trabajo de investigaci�n aborda la tem�tica de la interculturalidad vivida por centenares de italianos que una vez finalizada la segunda guerra mundial, se embarcaron en los puertos de la Pen�nsula europea con el firme prop�sito de buscar nuevos horizontes y alcanzar una mejor calidad de vida para ellos y para sus familiares. La investigaci�n a trav_s del enfoque cualitativo, empleando como metodolog�a la perspectiva fenomenol�gica hermen_utica y apoyada por las fuentes documentales, trata de conocer las experiencias de los testimonios clave interpretando las voces de los mismos inmigrantes italianos que vivieron el proceso de integraci�n social con la realidad venezolana. Los acontecimientos que se desarrollan en el estudio, muestran a Am_rica Latina durante la d_cada de los a�os cincuenta, periodo hist�rico caracterizado por una profunda transformaci�n econ�mica, pol�tica y cultural cabe se�alar que en esta regi�n suramericana Venezuela viv�a un profundo cambio que se manifestaban en diferentes actividades pol�ticas emprendidas por el gobierno del General Marcos P_rez Jim_nez y dirigidas al desarrollo social y econ�mico del Pa�s. En este sentido la pol�tica de Estado favoreci� el ingreso de decenas de inmigrantes italianos para que contribuyeran a la construcci�n del proyecto perezjimenista es as� como estos j�venes se ubicaron en diversos estados de Venezuela generando un proceso de interculturalidad que les permiti� integrarse y interactuar con el contexto local."</dbo:abstract>
+        <foaf:name>PERSPECTIVA DE LA NUEVA OLA TECNOL�GICA DEL SIGLO XXI: BIG DATA Y CLOUD COMPUTING EN EL MUNDO EMPRESARIAL</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"The accelerated technological growth in this century has brought with it a variety of trends and developments of new business models. In the eyes of the entrepreneur, this arouses the interest of venturing into this new wave in order to increase efficiency and profitability in your company, be more competitive in the market and satisfy your customers.  It  is  undeniable  that  Big  Data  and  Cloud  Computing  bring  different  and innovative schemes to the infrastructure already known for some time.\r\n3The present work is oriented to detail and to glimpse from the literary perspective the technological  tendencies  of  the  21st  century,  referring  to  Big  Data  and  Cloud Computing. In the first part, the article focuses on presenting the definitions, models, applications of both technologies in the second part, emphasizes aspectsrelated to the current challenges facing companies in this technological wave, and what elements to analyze beforehand, before hiring a cloud service provider or acquire an application for the analysis of large data in the third part, the most significant statistical results of these new technological services are presented, and lastly, the author points out the conclusions he has arrived at, as a result of the literary revision."</dbo:abstract>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2010</dbo:year>
+        <foaf:name>Las estrategias docentes y su implicaci�n en el aprendizaje significativo del concepto de derivada en estudiantes de ingenier�a</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >11/11/18</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >31/10/06</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >17/12/18</dbo:firstPublicationDate>
+        <foaf:name>Phytochemical study and evaluation of cytotoxic and genotoxic properties of extracts from Clusia latipes leaves</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >El art�culo presenta un an�lisis acerca de las caracter�sticas de los individuos que forman parte del subempleo juvenil. Para el efecto, la metodolog�a que se usa es la de modelos probabil�sticos, con el uso de micro-datos que se centran precisamente en analizar las principales caracter�sticas de aquellos que no cuentan con un empleo adecuado (com�nmente conocidos como subempleados). El estudio segmenta las variables utilizadas en las estimaciones en tres categor�as: caracter�sticas demogr�ficas, de capital humano y condiciones socioecon�micas. Dentro de estas tres categor�as, existen caracter�sticas de los individuos j�venes que los llevan a tener trabajos precarios como los que ofrece el subempleo. Por ejemplo, los resultados muestran componentes discriminatorios de g_nero y _tnicos. Tambi_n destaca la importancia de la zona en la que reside, su estructura familiar y cu�n dotado, en t_rminos de capital humano, se encuentra. El estudio tambi_n considera la incidencia de la situaci�n socioecon�mica del individuo en la determinaci�n de la probabilidad de ser o no subempleado.</dbo:abstract>
+        <foaf:name>Ana_lisis de la triada: integracio_n acade_mica, permanencia y dispersio_n geogra_fica</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >El centro hist�rico de Loja-Ecuador ha tenido m�ltiples transformaciones desde su confi- guraci�n en el siglo xvi. Cat�strofes naturales que se dieron en los siglos xvii y xviii, la ejecu- ci�n del plan regulador en 1960 y la concentra- ci�n de actividades comerciales y administrati- vas han dado paso a subdivisiones de terrenos de congregaciones religiosas consideradas de alto valor hist�rico. El an�lisis de estos fraccio- namientos permitir� diagnosticar y proponer soluciones a cada sitio urbano.</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2/3/19</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"In Ecuador, the sectorial policies, public policies and state investment, increase the presence of polarized and polycentric territories with very heterogeneous characteristics and with asymmetric levels of economic growth and development. The explanation for the unequal growth of regions in Ecuador is determined by the existence of different types of asymmetries that determine economic dynamics and non-convergent development processes. The aim of this research is to determine the effect of an increase in public spending on physical infrastructure and education, on the improvement of productive conditions and on the process of reducing disparities (convergence) at the regional level in Ecuador. To do this, the hypothesis of beta convergence will be tested, which is conditioned by the proxy variables of public expenditure or investment in infrastructure and education at provincial level, for the 2001_2015 period. The results show the existence of a ""slight"" process of convergence per capita and productivity, although with a significant level of territorial ""segregation"". In the same way, it is observed that public investment made in this period did not increase the productivity of small and medium-sized provinces significantly, severely conditioning the sustainability of the process of reducing disparities at regional level."</dbo:abstract>
+        <foaf:name>La comunicaci�n asertiva en la red intersubjetiva estudiantil</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Se investiga el potencial de especies vegetales nativas para contrarestar el impacto ambiental causado por la miner�a artesanal en suelos ecuatorianos.</dbo:abstract>
+        <foaf:name>Stable femtocells cluster formation and resource allocation based on cooperative game theory</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >19/12/18</dbo:firstPublicationDate>
+        <foaf:name>Web 2.0 tools to Improve Listening and Speaking Skills in a Flipped Classroom</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/4/17</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >18/10/18</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >22/3/18</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >18/2/19</dbo:firstPublicationDate>
+        <foaf:name>An�lisis de la triada: integraci�n acad_mica, permanencia y dispersi�n geogr�fica (Analysis of the triad: academic integration, permanence and geographic dispersion)</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >30/12/18</dbo:firstPublicationDate>
+        <foaf:name>El retorno de la mujer ecuatoriana migrante y su impacto en el desarrollo social</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >EL DIVORCIO DE LOS PADRES PUEDE SER UNA EXPERIENCIA MUY DOLOROSA E INCLUSIVE DE TIPO TRAUM�TICA, TANTO LA PAREJA COMO LOS HIJOS EN COM�N EXPERIMENTAN MUCHO SUFRIMIENTO POR LOS CAMBIOS QUE SUPONE LA RUPTURA POTENCIAL DEL CONTACTO, RELACI�N Y V�NCULO.</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/9/13</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >9/11/18</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Los sistemas de flujo a superficie libre se caracterizan por la exposici�n de una regi�n del fluido a la atm�sfera. La velocidad de flujo en estos sistemas est� condicionada por factores como la rugosidad de los materiales que conforman la secci�n que producen fuerzas de fricci�n que se oponen al movimiento del fluido. El prop�sito de este trabajo es el proporcionar una visi�n general de la distribuci�n de las l�neas de velocidad en un flujo a superficie libre (canal) que incluye un v�rtice rotacional hidr�ulico. El aforo y toma de velocidades se realiz� en nueve sectores del sistema de flujo experimental siete sectores se fijaron en la secci�n del canal que abastece el prototipo y dos sectores en el v�rtice rotacional. Las velocidades del flujo se midieron con el tubo Pitot en varios puntos en cada sector. Las distribuciones de velocidad se elaboraron con el apoyo de una aplicaci�n inform�tica para interpolaci�n de datos y se comprobaron mediante un sistema de Din�mica de Fluidos Computacional-CFD. Los resultados obtenidos permitieron visualizar la localizaci�n de las velocidades m�ximas del flujo en las secciones del canal y del v�rtice rotacional y, comprobar la variaci�n de la velocidad del flujo de acuerdo a los cambios graduales de las dimensiones y caracter�sticas de cada secci�n de la conducci�n. Adem�s, se observ� un aumento significativo de la velocidad del fluido cuando se produce el flujo rotacional y vorticial."</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >9/11/15</dbo:firstPublicationDate>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >1/12/18</dbo:firstPublicationDate>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2014</dbo:year>
+        <foaf:name>�Qu_ derechos fundamentales conservan los privados de la libertad?</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Dentro de las relaciones econ�micas que se presentan entre las empresas tenemos el concepto o t_rmino denominado empresas o partes relacionadas que seg�n nuestra normativa son aquellas en las que otras empresas o terceras personas participan directa o indirectamente en la direcci�n, administraci�n, control o capital de la otra. La Organizaci�n para la Cooperaci�n y el Desarrollo Econ�mico ha elaborado los M_todos o R_gimen de Precios de Transferencia para mantener un control acertado de las operaciones econ�micas realizadas entre partes relacionadas, y comprobar que las mismas se est�n realizando de manera similar a las que se efect�an entre partes independientes. En vista de los problemas reflejados por la utilizaci�n de los m_todos de Precios de Transferencia, se cre� la forma de negociaci�n al m_todo a utilizar denominado Acuerdo de Precios Anticipados o APAs. Los APAs consisten en convenios realizados entre los contribuyentes y administraciones tributarias para determinar con anticipaci�n el m_todo a utilizar en las transacciones realizadas entre partes relacionadas, pero siempre bajo criterios apropiados de comparaci�n, ajustes, hip�tesis relacionadas con eventos futuros de estas transacciones y operaciones controladas es decir, que lo que buscan estos convenios es que las transacciones econ�micas entre relacionadas cumplan el principio de plena competencia o arm�s length. El presente trabajo consiste en analizar la utilizaci�n de APAs como una herramienta alternativa para evitar la evasi�n de impuestos, advertir si es un beneficio y su posible aplicaci�n en nuestro pa�s dentro de la normativa existente."</dbo:abstract>
+        <foaf:name>Aciertos, cr�ticas y desaf�os pendientes de la pol�tica educativa durante la presidencia de Rafael Correa. Ecuador 2007-2017</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Se determin� la presi�n demogr�fica sobre el recurso h�drico en la provincia de Loja, expresado a trav_s de un �ndice de presi�n demogr�fica sobre el agua, calculado a partir del an�lisis multicriterio de cinco variables indicador. Los resultados obtenidos indican que la mayor presi�n demogr�fica sobre el agua se concentra en un �rea muy peque�a que representa el 2.5% del territorio y que aproximadamente la mitad del territorrio tiene problemas de presi�n sobre el recurso h�drico. �stos resultados permitieron identificar las zonas prioritarias y m�s problem�ticas para la gesti�n del agua, as� como la inferencia de un posible escenario futuro sobre el recurso h�drico.</dbo:abstract>
+        <foaf:name>Spatial Economic Convergence and Public Expenditure in Ecuador</foaf:name>
+        <foaf:name>El aprendizaje activo para las clases de ingl_s como lengua extranjera</foaf:name>
+        <foaf:name>�QU� ES LA TERAPIA FAMILIAR Y C�MO PUEDE AYUDAR A ENFRENTAR EL DIVORCIO?</foaf:name>
+        <foaf:name>Water resources and population: multi-criteria analysis of demographic pressure on water resources in southern Ecuador.</foaf:name>
+        <foaf:name>Edificios hist�ricos: fraccionamientos y afectaciones urbana- arquitect�nicas</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >El presente trabajo consiste en preguntar sobre los avances y retrocesos de la pol�tica educativa ecuatoriana durante el gobierno de Rafael Correa bajo un m_todo de an�lisis que proviene de categor�as y conceptos de la pol�tica p�blica y educativa. Se repasan los principales indicadores que describan los logros, pero tambi_n se recogen aquellos aspectos cr�ticos que se evi-denciaron durante su periodo. Al final veremos cu�les ser�n los principales desaf�os educativos de la sociedad ecuatoriana en un contexto de transici�n pol�tica, recesi�n econ�mica y globalizaci�n neocapitalista.</dbo:abstract>
+        <foaf:name>Factores psicosociales que motivan el consumismo en los estudiantes universitarios de la Facultad de Comunicaci�n Social y Psicolog�a de la Universidad Central del Ecuador</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"La realidad de la parroquia de Chuquiribamba como Patrimonio Cultural de la Naci�n suscita desaf�os que van m�s all� de la conservaci�n de su estructura arquitect�nica que se caracteriza por mantener de manera �nica su integridad y autenticidad. Sin embargo las nuevas expresiones arquitect�nicas denominadas �modernas� son concebidas como sin�nimo de progreso, a pesar de ser ajenas al entorno, pues rompen con el esquema formal de la arquitectura existente, provocando la p_rdida de expresiones culturales, costumbres, medio ambiente y hasta de calidad de vida de esta comunidad. Ante esta realidad, el Instituto Nacional de Patrimonio Cultural - Regional 7 (INPC-R7), ha determinado la necesidad de fomentar acciones que permitan asumir estos desaf�os, tomando como base dos hechos concretos: a) La p_rdida de los saberes constructivos tradicionales con tierra b) La necesidad de conservar un elemento religioso y de valor simb�lico para la comunidad, la Capilla del Barrio El Calvario. Consecuentemente es necesaria la revitalizaci�n de las manifestaciones y conocimientos vinculados a la construcci�n tradicional como la formaci�n de mano de obra capacitada, a partir de la implantaci�n de talleres de capacitaci�n e intercambio de experiencias entre t_cnicos, maestros constructores y j�venes aprendices de los oficios relacionados con el manejo de materiales y sistemas constructivos con tierra, sustentadas en la participaci�n comunitaria a trav_s de mingas. Esta experiencia ha permitido promover la recuperaci�n de la memoria social, el oficio y los conocimientos asociados a los sistemas y materiales constructivos tradicionales del sector, as� como la apropiaci�n de lugares simb�licos, el fortalecimiento de una identidad local, el sentido que compromete y obliga a conservar los valores que lo conforman, los cuales ser�n evidentes en acciones que permitan el mantenimiento, la nueva edificaci�n y las buenas pr�cticas en el patrimonio cultural edificado en la regi�n."</dbo:abstract>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >31/12/18</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"El control del avance de una obra es parte fundamental de la ejecuci�n de cualquier proyecto. Los principales objetivos del control de obra son monitorear el cumplimiento en la ejecuci�n de las actividades programadas y, reprogramar aquellas actividades que no cumplen con dicha programaci�n. Al controlar el avance de obra se puede cumplir con los objetivos planteados por el equipo t_cnico.\r\nActualmente, los m_todos y t_cnicas para la realizaci�n del control de obra han mejorado de forma sustancial. Esto se debe principalmente a la automatizaci�n de ciertos procesos usados en el control  de obra y por la definici�n de las distintas variables que intervienen en el proceso constructivo. Una de las t_cnicas que permite determinar el comportamiento matem�tico de una variable dependiente en funci�n de otra variable independiente es el an�lisis de series temporales. \r\nLas series temporales analizadas en esta investigaci�n fueron elaboradas con coordenadas de posicionamiento GPS tomadas en el sitio de construcci�n y durante el tiempo en que se construy� la Central Hidroel_ctrica. De acuerdo a Rodr�guez y Mancebo (1999), las t_cnicas GPS pueden ser aplicadas en m�ltiples �reas como en el monitoreo y control de obras civiles, en la gesti�n ambiental, en la gesti�n de recursos h�dricos, en la miner�a, en la agricultura, en la industria, en navegaci�n a_rea, en navegaci�n marina, etc."</dbo:abstract>
+        <foaf:name>Developing Software to Evaluate the Liquefaction Potential by Using 2D Numerical Modeling: Applications</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >El  CEO  (l�der)  es  hoy  m�s  que  nunca,  el reflejo  de  la  reputaci�n  empresarial  frente a los stakeholders. \r\nLa  gesti�n  del  compromiso  del  empleado o employee   engagement,  es  una pr�ctica y   trabajo   estrat_gico   de   la   comunicaci�n interna, que desde hace varias d_cadas se ha estudiado e implementado en Estados Unidos y  algunos  pa�ses  europeos,  sin  embargo,  en  Latinoam_rica  este  tema  apenas  empieza  a  abordarse hace pocos a�os.\r\n</dbo:abstract>
+        <foaf:name>Sobrepeso, obesidad y diabetes mellitus 2 en adolescentes de Am_rica Latina en 2000_2010</foaf:name>
+        <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >2011</dbo:year>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Introducci�n: este art�culo tiene como prop�sito determinar las estrategias docentes utilizadas\r\npara promover el aprendizaje significativo del concepto de derivada en estudiantes de\r\nIngenier�a. Para lo cual se fundament�, te�ricamente, en Ausubel (2002), D�az y Hern�ndez\r\n(2010), entre otros. Metodolog�a: estuvo enmarcado en una metodolog�a cuantitativa, siendo\r\nuna investigaci�n descriptiva con un dise�o transversal y de campo. Se consider� un censo\r\npoblacional de siete profesores que conforman la c�tedra de C�lculo I de la Facultad de\r\nIngenier�a de la Universidad del Zulia. La t_cnica de recolecci�n de datos fue la encuesta y se\r\ndise�� como instrumento a un cuestionario de 42 �temes tipo Likert, con una confiabilidad alta\r\nde 0,899 seg�n el m_todo de Alfa Crombach. Para el an�lisis de los datos se utiliz� la\r\nestad�stica descriptiva mediante medias aritm_ticas. Resultados: se obtuvo como resultados\r\nque los docentes utilizan con una mediana presencia las estrategias para promover el\r\naprendizaje significativo. Conclusiones: dado los resultados obtenidos se concluye que se\r\ndebe organizar estrategias did�cticas para optimizar el desempe�o docente, y reforzar sus\r\nherramientas de ense�anza, actualizar sus conocimientos, nivelarlos con los avances de las\r\nTIC y convertirlos en facilitadores eficientes que garanticen el aprendizaje significativo\r\nesperado en el �rea de estudio.</dbo:abstract>
+        <foaf:name>Aprender, conocer y hacer desde la futuralidad educativa. Caso EB Elo�sa Fonseca, Valera estado Trujillo</foaf:name>
+        <foaf:name>La Universidad Nacional Experimental Sim�n Rodr�guez, (UNESR) desde la acci�n transformadora de la educaci�n comunidad. Caso: Servicio comunitario UNESR, N�cleo Valera, estado Trujillo</foaf:name>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >"Trabajo de Investigaci�n sobre comportamiento econ�mico, espec�ficamente sobre Factores Psicosociales y Consumismo. El objetivo del estudio fue conocer los factores psicosociales que provocan el consumismo en j�venes universitarios de las Facultades de Psicolog�a y Comunicaci�n Social de la Universidad Central del Ecuador como una forma de establecer una l�nea base para futuras investigaciones en el marco del trabajo que realiza el Observatorio del Comportamiento Econ�mico y la Pol�tica P�blica. El estudio tiene una metodolog�a no experimental, de tipo descriptiva y de corte transversal. La informaci�n fue levantada en una muestra no probabil�stica de 300 estudiantes de las Facultades de Psicolog�a y Comunicaci�n Social de la Universidad Central del Ecuador. Los resultados de la investigaci�n reflejan que los j�venes universitarios no entran dentro de la categor�a del consumismo, porque hay manifestaciones moderadas en su conducta econ�mica evidenciando un buen nivel de planificaci�n de sus compras adem�s se observa, que no hay mayormente niveles de influencia de la publicidad para comprar y catalogan al endeudamiento desde una posici�n de prudencia llev�ndolos a un consumo no impulsivo. El estudio concluye la necesidad e importancia de sostener esta actitud prudente ante el mercado con una fuerte formaci�n o alfabetizaci�n en Ciudadan�a Econ�mica."</dbo:abstract>
+        <foaf:name>VENTAJAS Y DESVENTAJAS PARA LOS CONTRIBUYENTES  DEL USO DE ACUERDOS DE PRECIOS ANTICIPADOS _ APA�S</foaf:name>
+        <foaf:name>El liderazgo empresarial y la gesti�n de empoyee engagement</foaf:name>
+        <dbo:firstPublicationDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >14/2/19</dbo:firstPublicationDate>
+        <dbo:abstract rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >Las organizaciones forman parte de la sociedad, por lo tanto, se articulan a un sistema din�mico y estructuralmente variable. La planificacio_n estrate_gica en todos los escenarios es fundamental. Generalmente las organizaciones suelen prever la administracio_n de sus recursos con base a sus objetivos, pero suelen descuidar aspectos ba_sicos de toda relacio_n social y de interaccio_n con el entorno, la comunicacio_n. \r\n\r\nLa crisis es una situacio_n que pone en riesgo la imagen y reputaci�n de una organizaci�n y que llega sin previo aviso. Como consecuencia de la crisis, la imagen de muchas organizaciones se ha visto afectada sin considerar que una so_lida reputacio_n corporativa es el mejor intangible para afrontar una situacio_n difi_cil. Conscientes de estos aspectos, la investigacio_n que aqui_ se presenta, tiene como objetivo conocer las acciones que ejecutan los gestores de comunicacio_n de las compa��as del pai_s en torno a la comunicacio_n preventiva. \r\n\r\nA trave_s de una encuesta, se logr� recoger informacio_n de 293 gerentes y DIRCOM de instituciones privadas del Ecuador. El instrumento fue trabajado en tres segmentos: Comunicacio_n preventiva, Gestio_n de crisis: interna _ externa _ online, y Post-crisis. Entre los principales resultados se evidencia que las empresas ecuatorianas no est�n preparadas para actuar comunicacional ni ta_cticamente frente a una situacio_n de crisis. \r\n</dbo:abstract>
+      </rdf:Description>
+    </rdfs:subClassOf>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://cienciaytecnologia.uteg.edu.ec/revista/index.php/cienciaytecnologia/article/view/195/167</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.risti.xyz/issues/ristie17.pdf</dbo:url>
+    <dbo:status rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Indexado</dbo:status>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.3390/sym11020130</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.rediech.org/ojs/2017/index.php/ie_rie_rediech/article/view/24/13</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">\r\nDatos del Peri�dico\r\nURL:\r\nhttp://www.seer.ufu.br/index.php/historiaperspectivas/index</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059301603&amp;doi=10.1016%2fj.comcom.2018.11.004&amp;partnerID=40&amp;md5=21c1dbdedaffdd172a5c90dce669480f</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/DOI: http://dx.doi.org/10.5944/ried.22.1.22001</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://revistaquiroga.andaluciayamerica.com/index.php/quiroga/article/view/277</dbo:url>
+    <dbo:status rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Aceptado</dbo:status>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/http://dx.doi.org/10.5944/ried.22.1.22001</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.revhabanera.sld.cu/index.php/rhab/article/view/1152</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.7203/qfia.3.1.7218</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://disputatio.eu/vols/vol-7-no-8/velezleon-csc/</dbo:url>
+    <rdf:type>http://dbpedia.org/ontology/Article</rdf:type>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://repositorio.uasb.edu.ec/handle/10644/5643</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/https://doi.org/10.1007/978-3-030-03577-8_62</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://eventos.utpl.edu.ec/sites/default/files/print_pdf/Libro%20de%20actas%20simposio_digital.pdf</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/http://dx.doi.org/10.15359/rldh.29-2.9</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.1109 / CISTI.2016.7521584</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.5678/lcrs/for2730.cit.1736</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://ethnobiology.org/journal/%5Bfield_volume-raw%5D-26</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://drive.google.com/open?id=1AYPwiPunBTDNh4cy_kb4BzvDVQB5vRZy</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://revistas.ucc.edu.co/index.php/ra/article/view/2147/2201</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://laconversacion.net/2019/02/que-es-la-terapia-familiar-y-como-puede-\r\nayudar-a-enfrentar-un-divorcio/</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://ahf-filosofia.es/media/files/HISPANISMO%20FILOS%2018completo.pdf</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.4185/RLCS-2016-1138</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.1109/ETCM.2018.8580261</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.5539/elt.v12n1p110</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://www.lalaproject.org/conferencia2019/</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/ ISBN: 978-84-09-00790-5</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://dialogusci.com/wp-content/uploads/2018/09/anuario-comunicacion-interna-DialogusCI.pdf</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">Solo existe la publicaci�n en revista f�sica.</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://retosdelaciencia.com/Revistas/index.php/retos/article/view/234</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.saber.ula.ve/agora/</dbo:url>
+    <dbo:magazine>
+      <rdf:Description rdf:about="http://example.org/data/Magazine">
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >ISBN 978-9978-14-313-1</dbo:isbn>
+        <foaf:name>Tabebuia Bulletin</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >978-1-5386-6658-6</dbo:isbn>
+        <foaf:name>Organizaci�n de las Naciones Unidad para la Alimentaci�n y la Agricultura</foaf:name>
+        <foaf:name>NOVEDADES JUR�DICAS</foaf:name>
+        <foaf:name>Agora Trujillo</foaf:name>
+        <foaf:name>Conferencia Ib_rica sobre Sistemas y Tecnolog�as de la Informaci�n, CISTI</foaf:name>
+        <foaf:name>https://revistaquiroga.andaluciayamerica.com/index.php/quiroga</foaf:name>
+        <foaf:name>2018 IEEE Third Ecuador Technical Chapters Meeting (ETCM)</foaf:name>
+        <foaf:name>Revista Latinoamericana de Derechos Humanos, Vol. 29 N�m. 2.</foaf:name>
+        <foaf:name>Seismological Research Letters</foaf:name>
+        <foaf:name>Revista Latina de Comunicacion Social</foaf:name>
+        <foaf:name>Revista nuestrAm_rica</foaf:name>
+        <foaf:name>NUESTRAM�RICA</foaf:name>
+        <foaf:name>Revista Cient�fica Retos de la Ciencia</foaf:name>
+        <foaf:name>Educa��o e Pesquisa</foaf:name>
+        <foaf:name>Icones Orchidacearum</foaf:name>
+        <foaf:name>TAULA.QUADERNS DE PENSAMENT.</foaf:name>
+        <foaf:name>Cifra Nueva</foaf:name>
+        <rdf:type>http://dbpedia.org/ontology/Magazine</rdf:type>
+        <foaf:name>Memorias RECIR 2016</foaf:name>
+        <foaf:name>LALA PROYECT Building capacity to use Learning Analytics  (I Conferencia Latinoamericana y Summer School de Anal�ticas de Aprendizaje _ LALA 2019)</foaf:name>
+        <foaf:name>Cuadernos Americanos: Nueva Epoca,</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >N/A</dbo:isbn>
+        <foaf:name>: Libro de Res�menes LXI Convenci�n anual de la ASOVAC. Biociencias - Ciencias Exactas- Ciencias Sociales -Tecnolog�a</foaf:name>
+        <foaf:name>Rastros Rostros</foaf:name>
+        <foaf:name>Universitas, Revista de Ciencias Sociales y Humanas de la Universidad Polit_cnica Salesiana del Ecuador,</foaf:name>
+        <foaf:name>N/A</foaf:name>
+        <foaf:name>Cuaderno de Pol�tica Educativa3</foaf:name>
+        <foaf:name>Symmetry</foaf:name>
+        <foaf:name>REVISTA HIST�RIA &amp; PERSPECTIVAS</foaf:name>
+        <foaf:name>Journal of Ethnobiology</foaf:name>
+        <foaf:name>Lo peque�o como alternativa.</foaf:name>
+        <foaf:name>RIED: Revista Iberoamericana de Educaci�n a Distancia</foaf:name>
+        <foaf:name>Computer Communications</foaf:name>
+        <foaf:name>Lo social a trav_s de los medios alternativo de comunicaci�n en la organizaci�n comunitaria</foaf:name>
+        <foaf:name>Revista Habanera de Ciencias M_dicas</foaf:name>
+        <foaf:name>Revista cient�fica Ciencia y Tecnolog�a</foaf:name>
+        <foaf:name>Disputatio. Philosophical Research Bulletin</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >ISBN978-93-86878-09-0</dbo:isbn>
+        <foaf:name>Perspectivas</foaf:name>
+        <foaf:name>Actas del III Simposio Internacional sobre Gesti�n de la Comunicaci�n. La Innovaci�n de la Innovaci�n: Del Medio al Contenido Predictivo</foaf:name>
+        <foaf:name>English Language Teaching</foaf:name>
+        <foaf:name>Perspectivas-Diners</foaf:name>
+        <foaf:name>Revista Cubana de Medicina General Integral</foaf:name>
+        <foaf:name>Anuario de Comunicaci�n Interna</foaf:name>
+        <foaf:name>Revista de Investigaci�n Educativa</foaf:name>
+        <foaf:name>Libro de Res�menes LXIII Convenci�n anual de la ASOVAC. Biociencias - Ciencias Exactas- Ciencias Sociales -Tecnolog�a</foaf:name>
+        <foaf:name>RIED. Revista Iberoamericana de Educacio_n a Distancia</foaf:name>
+        <foaf:name>LATIN AMERICAN JOURNAL OF COMPUTING</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >980-11-0922-X</dbo:isbn>
+        <foaf:name>Science Direct</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >978-3-030-03576-1</dbo:isbn>
+        <foaf:name>Espamciencia</foaf:name>
+        <foaf:name>Information Systems and Technologies to Support Learning</foaf:name>
+        <foaf:name>Libro Digital Arbitrado �Educaci�n Cooperativa y Desarrollo comunitario�. Memorias del VI Simposio Nacional �Educaci�n Cooperativa y Desarrollo Comunitario� Centro Interdisciplinario de Investigaci�n, Formaci�n y Documentaci�n de la Econom�as Cooperativa,</foaf:name>
+        <foaf:name>Lo peque�o como alternativa</foaf:name>
+        <foaf:name>Dilemas contempor�neos: Educaci�n, Pol�tica y Valores.</foaf:name>
+        <foaf:name>Dialoguemos</foaf:name>
+        <foaf:name>https://dialnet.unirioja.es/servlet/revista?codigo=8711</foaf:name>
+        <foaf:name>Journal of Advanced Research in Dynamical and Control Systems - JARDCS</foaf:name>
+        <foaf:name>Applied Geochemistry</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >978-84-09-00790-5</dbo:isbn>
+        <foaf:name>Novedades Jur�dicas</foaf:name>
+        <dbo:isbn rdf:datatype="http://www.w3.org/2001/XMLSchema"
+        >978-9942-26-405-4</dbo:isbn>
+        <foaf:name>Revista NUESTRAM�RICA</foaf:name>
+        <foaf:name>Revista Ib_rica de Sistemas e Tecnologias de Informa��o</foaf:name>
+      </rdf:Description>
+    </dbo:magazine>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://revistanuestramerica.cl/ojs/index.php/nuestramerica/article/view/174/315</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.revistanuestramerica.cl/ojs/index.php/nuestramerica/article/view/177/318</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://revistanuestramerica.cl/ojs/index.php/nuestramerica/article/view/175</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://dialnet.unirioja.es/servlet/articulo?codigo=6086011</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.educacaoepesquisa.fe.usp.br/</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://perspectivas.utpl.edu.ec/</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.revmgi.sld.cu/index.php/mgi/rt/printerFriendly/15/11</dbo:url>
+    <dbo:status rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Publicado</dbo:status>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.novedadesjuridicas.com.ec/que-derechos-fundamentales-conservan-los-privados-de-libertad/</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://lajc.epn.edu.ec/index.php/LAJC/article/view/149/106</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/10.1785/0220180082</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">http://www.asovac.org/contenido/blog/lxii-convencion-anual/</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/https://doi.org/10.1016/j.bjp.2015.08.014</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://dialnet.unirioja.es/servlet/articulo?codigo=5719536</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">N/A</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">perspectivas.utpl.edu.ec</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://doi.org/https://doi.org/10.15242/DiRPUB.DIRH0118008</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">https://www.herbarioamo.org/index_archivos/Fascicle16(1).pdf</dbo:url>
+    <dbo:url rdf:datatype="http://www.w3.org/2001/XMLSchema">a�n no est� en l�nea</dbo:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/data/Project">
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Fortaleciomiento de los conocimientos y competencias basicas para mejorar el rendimiento academico en los componentes de fisica y matematicas</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCSAL_2018_2512</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCEMP_2018_2513</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_INV_CCSAL_2019_2522</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >1/2/19</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_CONS_CCBIO_2019_2465</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >1/10/18</dbo:projectStartDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Murales exteriores y juegos interactivos para el aula en la escuela 18 de noviembre de la cuidad  de Loja</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-030</dbo:code>
+    <foaf:name>Fortaleciomiento de los conocimientos y competencias basicas para mejorar el rendimiento academico en los componentes de fisica y matematicas</foaf:name>
+    <foaf:name>Uso del whatsapp como medio de comunicaci�n y retroalimentaci�n en el proceso de acompa�amiento de tutor�as en la asignatura de Ingenier�a Financiera</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2515</dbo:code>
+    <foaf:name>INNOVATON - BAYTEQ</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-006</dbo:code>
+    <dbo:status rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >status</dbo:status>
+    <foaf:name>Autoevaluaci�n de ensayos con el uso de r�bricas</foaf:name>
+    <foaf:name>Fototeca digital colaborativa del patrimonio fotografico de la UTPL</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-040</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >"Informativo estudiantil ""La Nota UTPL""/Black/Medianet"</dbo:comment>
+    <foaf:name>Historia del arte mediante infograf�a</foaf:name>
+    <foaf:name>Gamificaci�n de las ciencias humanas  hacia la consolidaci�n de los h�bitos: responsabilidad, liderazgo, administraci�n personal.</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-013</dbo:code>
+    <foaf:name>Uso de Whatsapp y grupos de Facebook en el proceso de tutor�a de la asignatura estad�stica</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Gamificaci�n de las ciencias humanas  hacia la consolidaci�n de los h�bitos: responsabilidad, liderazgo, administraci�n personal.</dbo:comment>
+    <foaf:name>�C�mo valorar lo invalorable?</foaf:name>
+    <foaf:name>Dise�o de estudios de caso con proyectos de vinculaci�n</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >10/11/19</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-007</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-028</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-041</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Implementaci�n de un sistema automatizado de R�bricas para la evaluaci�n y control de avances de los Trabajos de Titulaci�n (TT) de los estudiantes de Practicum 4 de la Titulaci�n de Ingenier�a en Inform�tica.</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Trabajo colaborativo utilizando Padlet</dbo:comment>
+    <foaf:name>Aprendizaje basado en objetos: Uso de juegos educativos como una estrategia did�ctica para la ense�anza de la matem�tica</foaf:name>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >3/8/18</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >10/7/18</dbo:projectEndDate>
+    <foaf:name>PROPUESTA ENVIADA: Din�mica espacial de una comunidad de Bosque seco en el cant�n Zapotillo.</foaf:name>
+    <foaf:name>"Influencia de la motivaci�n extr�nseca en el desempe�o acad�mico de estudiantes a distancia. Un estudio cuasiexperimental aplicaci�n del programa de intervalo fijo."</foaf:name>
+    <dbo:Project rdf:resource="http://example.org/data/Person"/>
+    <foaf:name>PROPUESTA ENVIADA: Caracterizaci�n molecular de hongos micorr�zicos asociados a ra�ces de orqu�deas ep�fitas en el sur del Ecuador</foaf:name>
+    <foaf:name>Proyecto Laboratorio remoto: Ense�anza de la fisica con practicas experimentales</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Creacion de hologramas aplicados al ambito cultural y educativo</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >6/3/16</dbo:projectStartDate>
+    <foaf:name>Elaboracion del MOOC: Asesoria en educacion a distancia para la formacion docente</foaf:name>
+    <foaf:name>Implementacion de tecnicas de control biologica en cultivos de ciclo corto en la finca UTPL</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Rubricas para la educacion del trabajo tecnico y sustentacion oral como parte del examen complexivo de la maestria en ordenamiento territorial y dise�o urbano OYDU-Primera Cohorte</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Edificacion en colectivo del conocimiento</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-018</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-029</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Alternativa de evaluaci�n de la calidad del cultivo de lechuga</dbo:comment>
+    <foaf:name>PROPUESTA ENVIADA: Carta de intenci�n proyecto: Paving the way towards biotechnology and Bioeconomy in Ecuador: Oil polluted ecosystems as a model of microbial diversity and reservoir for bioremediation processes and bioeconomy</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Proyecto realidad aumentada: Reconocer el sistema oseo, regiones, planos anatomicos y tipo de muertes de los informes medico legales a travez de uso de un aplicativo con realidad aumentada</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >description</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Aprendizaje basado en productos (ABpro)�Dejando huella en un producto�</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >1/3/19</dbo:projectStartDate>
+    <foaf:name>Uso de organizadores gr�ficos como estrategia de aprendizaje significativo.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Uso del whatsapp como medio de comunicaci�n y retroalimentaci�n en el proceso de acompa�amiento de tutor�as en la asignatura de Ingenier�a Financiera</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >27/4/18</dbo:projectStartDate>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >31/1/19</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >26/2/19</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Narrativas ilustradas. Una selecci�n tomada de la literatura lojana</dbo:comment>
+    <foaf:name>PROPUESTA ENVIADA: Hemisynthesis, biological evaluation and modeling studies of Onoseriolide derivates as c�ncer agents</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >n/a</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >16/7/18</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-019</dbo:code>
+    <foaf:name>Estrategias de intervenci�n para mejoramiento de la vivienda rural en 8 pueblos de la Parroquia San Francisco Javier atendidas desde San Miguelito. Provincia Velasco. Departamento de Santa Cruz � Bolivia.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Uso de organizadores gr�ficos como estrategia de aprendizaje significativo.</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Con la finalidad de evaluar las competencias de las madres y padres consider�ndolos como la fuente principal del cuidado para asegurar la satisfacci�n de las necesidades de los j�venes dentro de la familia. Este proyecto permitir� valorar las competencias parentales y conocer las caracter�sticas del contexto en que se desenvuelven los padres, las interacciones de los actores involucrados, sus historias de vida, las consecuencias que experimentan actualmente debido a la violencia vivida, los recursos sociales e institucionales de los que disponen. Al mismo tiempo, valorar los riesgos que puedan estar viviendo los ni�os y j�venes a ra�z de las incompetencias parentales de algunos adultos de la familia y que resultan significativos o influyentes en su cuidado y crianza. Se propone el fortalecimiento educativo de los padres de familia y docentes con el fin del mejoramiento integral de la calidad educativa.</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2019_2528</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Clase invertida apoyada en el software NB</dbo:comment>
+    <dbo:status rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >finalizado</dbo:status>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_CONS_CCBIO_2019_2464</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >La ludificaci�n en  la comprensi�n del Patrimonio Arquitect�nico</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2514</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-039</dbo:code>
+    <foaf:name>Consultor�a: �ndice de vulnerabilidad al cambio clim�tico en las ciudades de Loja (provincia de Loja) y Santa Cruz de Gal�pagos (provincia de Gal�pagos) en Ecuador.</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >30/12/18</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >En una sociedad en la que la mayor parte de las comunicaciones son medidas por pantallas, la educaci�n medi�tica resulta imprescindible para garantizar la autonom�a personal de los ciudadanos y l salud en la democracia. El consumo de medios digitales por parte de todos los sectores de la ciudadan�a se ha convertido en el �ltimo decenio, en un fen�meno universal de enorme impacto social, familiar y personal en todos los contextos vitales. ocio, trabajo educaci�n.</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Extensive and intensive listening activities for EFL learners: A case study to improve listening and speaking skills</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Juego de Historia del Arte: Renacimiento.</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >25/10/18</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_INV_CCCOM_2016_2511</dbo:code>
+    <foaf:name>Recursos audiovisuales como herramienta de aprendizaje cooperativo en Microbiolog�a</foaf:name>
+    <foaf:name>Herramienta educativa interactiva para el aprendizaje colaborativo en las asignaturas de Fundamentos de Pedagog�a y Did�ctica, Evaluaci�n Educativa y Gerencia Educativa: el celular.</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2524</dbo:code>
+    <foaf:name>PROPUESTA ENVIADA: Restauraci�n Ecol�gica y Conservaci�n de Humedales costeros como mecanismo de adaptaci�n al cambio clim�tico en la costa ecuatoriana</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Aprendizaje activo por medio del Aprendizaje Basado en Problemas (ABP), para el desarrollo de estrategias y recursos did�cticos en formato: f�sico y digital, para la ense�anza del idioma ingl�s (Nivel A1) a ni�os en edad escolar que presentan S�ndrome de Down que est�n incluidos en contextos de educaci�n regular.</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >20/9/18</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_CONS_CCEMP_2019_2530</dbo:code>
+    <foaf:name>PROPUESTA ENVIADA: Cartas de Intenci�n para los siguientes subproyectos:  1.�Proceso de �SERVICIO DE CONSULTOR�A PARA CAPACITACI�N Y ASISTENCIA T�CNICA DEL SUBPROYECTO DE TECNIFICACI�N DE RIEGO PARCELARIO ZHILLA -SAN PEDRO�� 2.�Proceso de �CONTRATACI�N DEL SERVICIO DE CONSULTOR�A PARA CAPACITACI�N Y ASISTENCIA T�CNICA DEL SUBPROYECTO DE TECNIFICACI�N DE RIEGO PARCELARIO LA ERA�� 3.�proceso de �CONTRATACI�N DEL SERVICIO DE CONSULTOR�A PARA CAPACITACI�N Y ASISTENCIA T�CNICA DEL SUBPROYECTO DE TECNIFICACI�N DE RIEGO PARCELARIO PALO MARCADO� 4.�proceso de �CONTRATACI�N DEL SERVICIO DE CONSULTOR�A PARA CAPACITACI�N Y ASISTENCIA T�CNICA DEL SUBPROYECTO IMPLEMENTACI�N DEL SISTEMA DE RIEGO POR MICROASPERSI�N Y GOTEO PARA LA ASOCIAC</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >3/8/18</dbo:projectEndDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >16/7/18</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >El uso de entornos personales de aprendizaje en educacion superior</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-034</dbo:code>
+    <foaf:name>Retroalimentacion academica a travez de la herramienta �Blackboard Collaborate�</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2519</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2525</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >6/6/18</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-042</dbo:code>
+    <foaf:name>Alternativa de evaluaci�n de la calidad del cultivo de lechuga</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2521</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-012</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-017</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >15/2/19</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >20/2/20</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Historia del arte mediante infograf�a</dbo:comment>
+    <foaf:name>La ludificaci�n en  la comprensi�n del Patrimonio Arquitect�nico</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-020</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-022</dbo:code>
+    <foaf:name>Murales exteriores y juegos interactivos para el aula en la escuela 18 de noviembre de la cuidad  de Loja</foaf:name>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2/8/18</dbo:projectStartDate>
+    <foaf:name>Identificaci�n de deficiencias y propuesta de mejora en la calidad del software desde el punto de vista de dise�o y codificaci�n.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Con este estudio se pretende conocer \r\nLos resultados esperados est�n dirigidos a mejorar la calidad de vida y satisfacci�n de los pacientes con ECNT en la zona 7, mediante el dise�o de los cuidados paliativos, as� como mejorar en la calidad de la atenci�n por el equipo interdisciplinario.</dbo:comment>
+    <foaf:name>T�cnicas para mejorar la motivaci�n en los alumnos de c�lculo 1 de la Carrera de Econom�a</foaf:name>
+    <foaf:name>El impacto de los juegos en la educaci�n a distancia</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >15/12/19</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Elaboracion del MOOC: Asesoria en educacion a distancia para la formacion docente</dbo:comment>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2/8/18</dbo:projectEndDate>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >10/7/18</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >6/6/18</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_VIN_ENF_2018_2466</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Retroalimentacion academica a travez de la herramienta �Blackboard Collaborate�</dbo:comment>
+    <foaf:name>Extensive and intensive listening activities for EFL learners: A case study to improve listening and speaking skills</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >27/4/18</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >intranetCode</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-023</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2019_2527</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Dise�o Web, lo hibidro entre el Arte y la programacion</dbo:comment>
+    <foaf:name>Programa de acompa�amiento pedag�gico familiar como agente de prevenci�n en situaciones de riesgo, fase 3: evaluaci�n competencias parentales.</foaf:name>
+    <foaf:name>"Informativo estudiantil ""La Nota UTPL""/Black/Medianet"</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-001</dbo:code>
+    <foaf:name>Lee y despatologizate</foaf:name>
+    <foaf:name>PROPUESTA ENVIADA: Digitalizaci�n del proceso de notificaci�n y seguimiento a problemas socio-ambientales en el manglar.</foaf:name>
+    <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2017</dbo:year>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >20/9/18</dbo:projectEndDate>
+    <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2018</dbo:year>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-038</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-032</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_VIN_ARQ_2019_2463</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-016</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >dateStarted</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >20/3/18</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-010</dbo:code>
+    <foaf:name>Competencias medi�ticas de la ciudadan�a en medios digitales emergentes (smartphones y tablets): Pr�cticas innovadoras y estrategias educomunicativas en contextos m�ltiples Ministerio de Econom�a y competitividad.</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_INNOV_INNOVATON_BAYTEQ012019</dbo:code>
+    <foaf:name>Cuidados paliativos en pacientes con enfermedades cr�nicas no transmisibles. Zona 7, Fase I</foaf:name>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >11/1/19</dbo:projectStartDate>
+    <foaf:name>Narrativas ilustradas. Una selecci�n tomada de la literatura lojana</foaf:name>
+    <foaf:name>Creacion de hologramas aplicados al ambito cultural y educativo</foaf:name>
+    <foaf:name>"PROPUESTA ENVIADA: Expresi�n de inter�s:�""Pl @ ntNet: identificaci�n de plantas interactiva y sistema de informaci�n colaborativa"" y ""ARCAD: Centro de recursos Agropolis para la conservaci�n, adaptaci�n y diversidad de cultivos"""</foaf:name>
+    <foaf:name>PROPUESTA ENVIADA: Establecimiento de un sistema inform�tico para uso compartido de los datos de monitoreo de las concesiones.</foaf:name>
+    <foaf:name>PROPUESTA ENVIADA: Expresi�n de inter�s: �ndice de vulnerabilidad al cambio clim�tico en las ciudades de Loja (provincia de Loja) y Santa Cruz de Gal�pagos (provincia de Gal�pagos) en Ecuador.</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-026</dbo:code>
+    <foaf:name>Aprendizaje activo por medio del Aprendizaje Basado en Problemas (ABP), para el desarrollo de estrategias y recursos did�cticos en formato: f�sico y digital, para la ense�anza del idioma ingl�s (Nivel A1) a ni�os en edad escolar que presentan S�ndrome de Down que est�n incluidos en contextos de educaci�n regular.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >La presente propuesta se enmarca dentro del convenio LAIF sobre Ciudades y Cambio Clim�tico en Am�rica Latina, una iniciativa de la Uni�n Europea que tiene por objeto apoyar a los pa�ses de la regi�n latinoamericana en el financiamiento de infraestructuras necesarias relacionadas con los retos de aumentar competitividad en el mercado global, desarrollar capacidades de crecimiento y reducir los niveles de pobreza. Los objetivos estrat�gicos del programa LAIF se basan en la mejora de la interconectividad de los pa�ses de Am�rica Latina, promover el desarrollo socio econ�mico sostenible y el apoyo de acciones de mitigaci�n , adaptaci�n al cambio clim�tico y fomento de la protecci�n del medio ambiente.</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-031</dbo:code>
+    <foaf:name>PROPUESTA ENVIADA: Realizar los estudios necesarios que determinen el efecto de borde sobre la flora y fauna - Fase de explotaci�n y beneficio del proyecto Mirador.</foaf:name>
+    <foaf:name>PROPUESTA ENVIADA: Exploration of participatory water quality monitoring tools in Southern Ecuador</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-033</dbo:code>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >19/10/18</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2518</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-004</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-043</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2520</dbo:code>
+    <foaf:name>Implementaci�n de un sistema automatizado de R�bricas para la evaluaci�n y control de avances de los Trabajos de Titulaci�n (TT) de los estudiantes de Practicum 4 de la Titulaci�n de Ingenier�a en Inform�tica.</foaf:name>
+    <foaf:name>Clase invertida apoyada en el software NB</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-011</dbo:code>
+    <foaf:name>Trabajo colaborativo utilizando Padlet</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-021</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >20/3/18</dbo:projectStartDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Recursos audiovisuales como herramienta de aprendizaje cooperativo en Microbiolog�a</dbo:comment>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >15/12/20</dbo:projectEndDate>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >19/10/18</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-027</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >"Influencia de la motivaci�n extr�nseca en el desempe�o acad�mico de estudiantes a distancia. Un estudio cuasiexperimental aplicaci�n del programa de intervalo fijo."</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_INGC_2019_2529</dbo:code>
+    <foaf:name>Dise�o Web, lo hibidro entre el Arte y la programacion</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Autoevaluaci�n de ensayos con el uso de r�bricas</dbo:comment>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >22/12/19</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-005</dbo:code>
+    <foaf:name>El uso de entornos personales de aprendizaje en educacion superior</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-002</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >24/7/18</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-036</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >T�cnicas para mejorar la motivaci�n en los alumnos de c�lculo 1 de la Carrera de Econom�a</dbo:comment>
+    <foaf:name>Juego de Historia del Arte: Renacimiento.</foaf:name>
+    <rdf:type>http://dbpedia.org/ontology/Project</rdf:type>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Proyectos escult�ricos para espacios p�blicos de Loja.</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >�C�mo valorar lo invalorable?</dbo:comment>
+    <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2016</dbo:year>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2526</dbo:code>
+    <foaf:name>PROPUESTA ENVIADA: Expression of interest for collaboration: Community-based conservation and development to protect mangrove forest in Jambel�-Archipelago in Southern Ecuador</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >24/7/18</dbo:projectEndDate>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2/4/18</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >dateFinished</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Lee y despatologizate</dbo:comment>
+    <foaf:name>PROPUESTA ENVIADA: Fortalecimiento de capacidades y desarrollo curricular en gesti�n integral de cuencas h�dricas internacionales</foaf:name>
+    <foaf:name>Aprendizaje basado en productos (ABpro)�Dejando huella en un producto�</foaf:name>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-024</dbo:code>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >28/1/19</dbo:projectStartDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >31/1/20</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-037</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2516</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Aplicaciones de las derivadas e integrales</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-015</dbo:code>
+    <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >year</dbo:year>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >31/1/19</dbo:projectEndDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >25/10/18</dbo:projectEndDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Proyecto Laboratorio remoto: Ense�anza de la fisica con practicas experimentales</dbo:comment>
+    <rdfs:subClassOf rdf:resource="http://example.org/data/WrittenWork"/>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-025</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-014</dbo:code>
+    <foaf:name>Micro 2.0, La experimentacion y ense�anza-aprendisaje en las aulas de Microeconomia</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >31/8/18</dbo:projectEndDate>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >22/2/19</dbo:projectStartDate>
+    <foaf:name>Edificacion en colectivo del conocimiento</foaf:name>
+    <foaf:name>PROPUESTA ENVIADA: OGTc- Observatorio para la gesti�n Territorial del Ecuador.</foaf:name>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >21/1/19</dbo:projectStartDate>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >"La empresa BAYTEQ, propone el Innovat�n �C�mo mejorar la experiencia de un estudiante en la web?, utilizando inteligencia artificial, BigData, Machine learning, Deep Learning, en las siguientes categor�as:\r\n\r\n�	Aprendizaje:  Asimilaci�n de contenidos impartidos en las asignaturas que cursa el estudiante\r\n�	Organizaci�n: organizaci�n de actividades que debe realizar un estudiante\r\n�	Servicios Universitarios:  servicios que requiere el estudiante por parte de la universidad\r\n�	Trabajo en red: colaboraci�n entre los estudiantes para estudio\r\n"</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Herramienta educativa interactiva para el aprendizaje colaborativo en las asignaturas de Fundamentos de Pedagog�a y Did�ctica, Evaluaci�n Educativa y Gerencia Educativa: el celular.</dbo:comment>
+    <foaf:name>Consultor�a: Caracterizaci�n molecular de hongos microrr�zicos asociados a ra�ces de orqu�deas ep�fitas en el sur del Ecuador.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Identificaci�n de deficiencias y propuesta de mejora en la calidad del software desde el punto de vista de dise�o y codificaci�n.</dbo:comment>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >14/2/19</dbo:projectStartDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_IMP_CCBIO_2018_2517</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-003</dbo:code>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-008</dbo:code>
+    <foaf:name>Aplicaciones de las derivadas e integrales</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Implementacion de tecnicas de control biologica en cultivos de ciclo corto en la finca UTPL</dbo:comment>
+    <foaf:name>PROPUESTA ENVIADA: Fortalecimiento de la agricultura familiar, mediante la generaci�n y el escalamiento de innovaciones tecnol�gicas y organizacionales de comunidades en situaci�n de pobreza del Sur de Ecuador y Norte del Per�.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Micro 2,0, La experimentacion y ense�anza-aprendizaje en las aulas de Microeconomia</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Fototeca digital colaborativa del patrimonio fotografico de la UTPL</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >El impacto de los juegos en la educaci�n a distancia</dbo:comment>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >21/1/19</dbo:projectEndDate>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >28/2/18</dbo:projectEndDate>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PROY_INV_CCEDU_2019_2510</dbo:code>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >El objetivo de esta consultor�a es identificar las comunidades de hongos microrr�zicos asociados con 250 individuos de orqu�deas ep�fitas tropicales. Para ello, se amplificar� mediante PCR.</dbo:comment>
+    <foaf:name>Promoci�n de la lactancia materna en las madres de la ciudad de Loja</foaf:name>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >31/3/19</dbo:projectEndDate>
+    <foaf:name>Rubricas para la educacion del trabajo tecnico y sustentacion oral como parte del examen complexivo de la maestria en ordenamiento territorial y dise�o urbano OYDU-Primera Cohorte</foaf:name>
+    <foaf:name>Proyectos escult�ricos para espacios p�blicos de Loja.</foaf:name>
+    <dbo:status rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >ejecutandose</dbo:status>
+    <dbo:projectEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >14/2/19</dbo:projectEndDate>
+    <foaf:name>title</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >"El an�lisis de patrones espaciales de la vegetaci�n, es una herramienta importante que ayuda a comprender los mecanismos que intervienen en el arreglo y estructuraci�n de una comunidad. Permiten identificar procesos de competencias intra e interespec�ficos, procesos de dispersi�n, que intervienen en el establecimiento de las plantas. Los patrones espaciales en bosques secos donde las condiciones son adversas pueden presentar comportamientos particulares como una alta agregaci�n debido a procesos de facilitaci�n de especies nodriza que crean h�bitats naturales para otras especies. Estos bosques poseen alta concentraci�n de flora end�mica y a la vez uno de los bosques m�s amenazados con un porcentaje muy bajo de cubierta original.\r\nUno de los principales disturbios que sufren los bosques secos tropicales es la alta intensidad de pstoreo que limita la regeneraci�n natural de la plantas dando lugar a bosques viejos con individuos adultos, lo cual impacta directamente en la estructura de la vegetaci�n.\r\nCon esta consultor�a se pretende generar informaci�n de base sobre la estructura espacial de la vegetaci�n en un bosque tropical y su modificaci�n por efecto del pastoreo as� como identificar procesos intra e interespec�ficos que intervienen en la formaci�n de los patrones espaciales de las especies le�osas presentes en dicho ecosistema."</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-009</dbo:code>
+    <dbo:year rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2019</dbo:year>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Dise�o de estudios de caso con proyectos de vinculaci�n</dbo:comment>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Uso de Whatsapp y grupos de Facebook en el proceso de tutor�a de la asignatura estad�stica</dbo:comment>
+    <dbo:code rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >PID-035</dbo:code>
+    <foaf:name>Consultor�a: Din�mica espacial de una comunidad de Bosque seco en el cant�n Zapotillo.</foaf:name>
+    <dbo:comment rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >Aprendizaje basado en objetos: Uso de juegos educativos como una estrategia did�ctica para la ense�anza de la matem�tica</dbo:comment>
+    <foaf:name>Proyecto realidad aumentada: Reconocer el sistema oseo, regiones, planos anatomicos y tipo de muertes de los informes medico legales a travez de uso de un aplicativo con realidad aumentada</foaf:name>
+    <dbo:projectStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema"
+    >2/10/17</dbo:projectStartDate>
+  </rdf:Description>
+</rdf:RDF>

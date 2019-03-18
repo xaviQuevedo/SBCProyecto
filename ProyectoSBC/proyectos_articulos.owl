@@ -1,0 +1,198 @@
+Prefix(:=<http://www.semanticweb.org/xavier/ontologies/2019/2/untitled-ontology-7#>)
+Prefix(doc:=<http://www.w3.org/2000/10/swap/pim/doc#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(foaf:=<http://xmlns.com/foaf/0.1/>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+Prefix(vivo:=<http://vivoweb.org/ontology/core#>)
+Prefix(dbpedia-owl:=<http://dbpedia.org/ontology/>)
+
+
+Ontology(<http://www.semanticweb.org/xavier/ontologies/2019/2/untitled-ontology-7>
+Annotation(rdfs:comment "Ontologia de los proyectos y articulos que se realizan dentro de la Universidad Tecnica Particular de Loja"@es)
+Annotation(rdfs:label "Proyectos y articulos de la Universidad Tecnica Particular de Loja"@es)
+
+Declaration(Class(dbpedia-owl:Article))
+Declaration(Class(dbpedia-owl:DataBase))
+Declaration(Class(dbpedia-owl:Magazine))
+Declaration(Class(dbpedia-owl:WrittenWork))
+Declaration(Class(foaf:Person))
+Declaration(ObjectProperty(dbpedia-owl:author))
+Declaration(ObjectProperty(dbpedia-owl:magazine))
+Declaration(ObjectProperty(dbpedia-owl:project))
+Declaration(ObjectProperty(rdfs:subClassOf))
+Declaration(ObjectProperty(doc:dataBase))
+Declaration(DataProperty(dbpedia-owl:code))
+Declaration(DataProperty(dbpedia-owl:documentIdentification))
+Declaration(DataProperty(dbpedia-owl:firstPublicationDate))
+Declaration(DataProperty(dbpedia-owl:isbn))
+Declaration(DataProperty(dbpedia-owl:projectEndDate))
+Declaration(DataProperty(dbpedia-owl:projectStartDate))
+Declaration(DataProperty(dbpedia-owl:role))
+Declaration(DataProperty(dbpedia-owl:status))
+Declaration(DataProperty(dbpedia-owl:url))
+Declaration(DataProperty(dbpedia-owl:year))
+Declaration(DataProperty(rdfs:comment))
+Declaration(DataProperty(rdfs:label))
+Declaration(DataProperty(doc:mail))
+Declaration(DataProperty(foaf:name))
+Declaration(NamedIndividual(dbpedia-owl:Article))
+Declaration(NamedIndividual(dbpedia-owl:DataBase))
+Declaration(NamedIndividual(dbpedia-owl:Magazine))
+Declaration(NamedIndividual(dbpedia-owl:Project))
+Declaration(NamedIndividual(dbpedia-owl:WrittenWork))
+Declaration(NamedIndividual(owl:Thing))
+Declaration(NamedIndividual(foaf:Person))
+
+############################
+#   Object Properties
+############################
+
+# Object Property: dbpedia-owl:author (dbpedia-owl:author)
+
+ObjectPropertyDomain(dbpedia-owl:author dbpedia-owl:WrittenWork)
+ObjectPropertyRange(dbpedia-owl:author foaf:Person)
+
+# Object Property: dbpedia-owl:magazine (dbpedia-owl:magazine)
+
+ObjectPropertyDomain(dbpedia-owl:magazine dbpedia-owl:Article)
+ObjectPropertyRange(dbpedia-owl:magazine dbpedia-owl:Magazine)
+
+# Object Property: dbpedia-owl:project (dbpedia-owl:project)
+
+ObjectPropertyRange(dbpedia-owl:project foaf:Person)
+
+# Object Property: rdfs:subClassOf (rdfs:subClassOf)
+
+ObjectPropertyDomain(rdfs:subClassOf dbpedia-owl:Article)
+ObjectPropertyRange(rdfs:subClassOf dbpedia-owl:WrittenWork)
+
+# Object Property: doc:dataBase (doc:dataBase)
+
+ObjectPropertyDomain(doc:dataBase dbpedia-owl:Article)
+ObjectPropertyRange(doc:dataBase dbpedia-owl:DataBase)
+
+
+############################
+#   Data Properties
+############################
+
+# Data Property: dbpedia-owl:code (dbpedia-owl:code)
+
+DataPropertyRange(dbpedia-owl:code xsd:string)
+
+# Data Property: dbpedia-owl:documentIdentification (dbpedia-owl:documentIdentification)
+
+DataPropertyDomain(dbpedia-owl:documentIdentification foaf:Person)
+DataPropertyRange(dbpedia-owl:documentIdentification xsd:string)
+
+# Data Property: dbpedia-owl:firstPublicationDate (dbpedia-owl:firstPublicationDate)
+
+DataPropertyDomain(dbpedia-owl:firstPublicationDate dbpedia-owl:WrittenWork)
+DataPropertyRange(dbpedia-owl:firstPublicationDate xsd:string)
+
+# Data Property: dbpedia-owl:isbn (dbpedia-owl:isbn)
+
+DataPropertyDomain(dbpedia-owl:isbn dbpedia-owl:DataBase)
+DataPropertyRange(dbpedia-owl:isbn xsd:string)
+
+# Data Property: dbpedia-owl:projectEndDate (dbpedia-owl:projectEndDate)
+
+DataPropertyRange(dbpedia-owl:projectEndDate xsd:dateTime)
+
+# Data Property: dbpedia-owl:projectStartDate (dbpedia-owl:projectStartDate)
+
+DataPropertyRange(dbpedia-owl:projectStartDate xsd:dateTime)
+
+# Data Property: dbpedia-owl:role (dbpedia-owl:role)
+
+DataPropertyDomain(dbpedia-owl:role foaf:Person)
+DataPropertyRange(dbpedia-owl:role xsd:string)
+
+# Data Property: dbpedia-owl:status (dbpedia-owl:status)
+
+DataPropertyDomain(dbpedia-owl:status dbpedia-owl:Article)
+DataPropertyRange(dbpedia-owl:status xsd:string)
+
+# Data Property: dbpedia-owl:url (dbpedia-owl:url)
+
+DataPropertyDomain(dbpedia-owl:url dbpedia-owl:Article)
+DataPropertyRange(dbpedia-owl:url xsd:string)
+
+# Data Property: dbpedia-owl:year (dbpedia-owl:year)
+
+DataPropertyDomain(dbpedia-owl:year dbpedia-owl:WrittenWork)
+DataPropertyRange(dbpedia-owl:year xsd:dateTime)
+
+# Data Property: rdfs:comment (rdfs:comment)
+
+DataPropertyRange(rdfs:comment xsd:string)
+
+# Data Property: rdfs:label (rdfs:label)
+
+DataPropertyDomain(rdfs:label dbpedia-owl:DataBase)
+DataPropertyDomain(rdfs:label dbpedia-owl:Magazine)
+DataPropertyRange(rdfs:label xsd:string)
+
+# Data Property: doc:mail (doc:mail)
+
+DataPropertyDomain(doc:mail foaf:Person)
+DataPropertyRange(doc:mail xsd:string)
+
+# Data Property: foaf:name (foaf:name)
+
+DataPropertyDomain(foaf:name dbpedia-owl:Magazine)
+DataPropertyDomain(foaf:name dbpedia-owl:WrittenWork)
+DataPropertyDomain(foaf:name foaf:Person)
+DataPropertyRange(foaf:name xsd:string)
+
+
+
+
+############################
+#   Named Individuals
+############################
+
+# Individual: dbpedia-owl:Article (dbpedia-owl:Article)
+
+DataPropertyAssertion(rdfs:label dbpedia-owl:Article "Articulo"@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:Article "Articulos"@es)
+
+# Individual: dbpedia-owl:DataBase (dbpedia-owl:DataBase)
+
+DataPropertyAssertion(rdfs:comment dbpedia-owl:DataBase "Las bases de datos que alojan los articulos")
+DataPropertyAssertion(rdfs:label dbpedia-owl:DataBase "Base de datos"@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:DataBase "Bases de datos"@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:DataBase "Data Base")
+
+# Individual: dbpedia-owl:Magazine (dbpedia-owl:Magazine)
+
+DataPropertyAssertion(rdfs:comment dbpedia-owl:Magazine "Clase para los distintos tipos de revistas")
+DataPropertyAssertion(rdfs:comment dbpedia-owl:Magazine "Las revistas, publicaciones periódicas, publicaciones o publicaciones periódicas son publicaciones, generalmente publicadas en un horario regular, que contienen una variedad de artículos. Por lo general, se financian con publicidad, con un precio de compra, con suscripciones de revistas prepagas o con las tres."@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:Magazine "Magazine")
+DataPropertyAssertion(rdfs:label dbpedia-owl:Magazine "Revistas"@es)
+
+# Individual: dbpedia-owl:Project (dbpedia-owl:Project)
+
+DataPropertyAssertion(rdfs:comment dbpedia-owl:Project "Un proyecto es un esfuerzo temporal emprendido para lograr objetivos definidos."@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:Project "Proyecto"@es)
+
+# Individual: dbpedia-owl:WrittenWork (dbpedia-owl:WrittenWork)
+
+DataPropertyAssertion(rdfs:comment dbpedia-owl:WrittenWork "El trabajo escrito es cualquier texto escrito para leerlo (por ejemplo, libros, periódicos, artículos )"@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:WrittenWork "Obra escrita"@es)
+DataPropertyAssertion(rdfs:label dbpedia-owl:WrittenWork "Trabajos Escritos"@es)
+
+# Individual: owl:Thing (owl:Thing)
+
+DataPropertyAssertion(rdfs:label owl:Thing "SBC"@es)
+
+# Individual: foaf:Person (foaf:Person)
+
+DataPropertyAssertion(rdfs:comment foaf:Person "En esta clase se identificaran a las personas"@es)
+DataPropertyAssertion(rdfs:label foaf:Person "Persona"@es)
+
+
+)
